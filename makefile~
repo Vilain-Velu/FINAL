@@ -1,0 +1,22 @@
+all:projet
+
+projet: main.o ville.o graphe.o Liste_ville.o noeud.o
+	gcc -o projet main.o ville.o graphe.o Liste_ville.o noeud.o -lm
+
+main.o : main.c ville.h graphe.h Liste_ville.h noeud.h
+	gcc -o main.o  -c main.c -lm -W -Wall -ansi -pedantic
+
+ville.o : ville.c ville.h
+	gcc -o ville.o -c ville.c -lm -W -Wall -ansi -pedantic
+
+Liste_ville.o : Liste_ville.c Liste_ville.h noeud.h
+	gcc -o Liste_ville.o -c Liste_ville.c -lm -W -Wall -ansi -pedantic
+
+noeud.o : noeud.c noeud.h ville.h
+	gcc -o noeud.o -c noeud.c -lm -W -Wall -ansi -pedantic
+
+graphe.o : graphe.c graphe.h noeud.h
+	gcc -o graphe.o -c graphe.c -lm -W -Wall -ansi -pedantic
+
+clean:
+	rm projet main.o ville.o graphe.o Liste_ville.o noeud.o

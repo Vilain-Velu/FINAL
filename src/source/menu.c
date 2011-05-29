@@ -1,0 +1,319 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "../headers/menu.h"
+
+
+/*****************************************************
+Fonction : gère le menu du programme
+Retour :
+*****************************************************/
+void menu(Noeud* N,int Nb){
+    int i;
+    int taille=200;
+    char* in=NULL;
+    in = (char*)malloc(sizeof(char)*taille);
+    int n=Nb+1;
+    char* out=NULL;
+    out = (char*)malloc(sizeof(char)*taille);
+    int ant[Nb][2];
+    float poids[Nb][3];
+    clock_t T1,T2;
+    float temps;
+    char c;
+	 int N2=Nb+1;
+	 Arbre* A=NULL;
+	 A = (Arbre*)malloc(sizeof(Arbre));
+
+    if(N->Ville_Suivante->v.indice !=1) {  /*technique de sauvage pour ne pas re-générer le graphe*/
+										  /*Génération du graphe avec voisins */
+        Remplirindice(N);
+        T1=clock();
+        generer_graphe(N);
+        T2=clock();
+        temps=(T2-T1)*1e-6;
+        printf(" * Graphe genere en : %f s * ",temps);
+				printf("\n\n * Le fichier contient bien %d villes * \n\n",Nb);
+    }
+
+    printf("\n");
+    printf("\n");
+    printf("\n");
+	 printf("*****************************************************************************\n");
+	 printf("*****************************************************************************\n");
+    printf("		Bonjour, bienvenue dans notre programme !\n");
+	 printf("*****************************************************************************\n");
+	 printf("*****************************************************************************\n");
+
+    while (i!=6){
+        printf("\n");
+        printf("\n");
+		  printf("*****************************************************************************\n");
+        printf("Veuillez entrer l'entier (et non pas une lettre !) correspondant à votre choix\n");
+        printf("\n");
+        printf("-----------------------------------------------------------------------------\n");
+        printf(" 1- Afficher en détail les villes de votre fichier.csv \n");
+		  printf("-----------------------------------------------------------------------------\n");
+        printf(" 2- Afficher les n villes les plus peuplées de votre fichier.csv \n");
+		  printf("-----------------------------------------------------------------------------\n");
+        printf(" 3- Afficher les villes du graphe ainsi que tous leurs voisins\n");
+ 		  printf("-----------------------------------------------------------------------------\n");
+        printf(" 4- Afficher le chemin le plus court entre 2 villes de votre choix\n");
+ 		  printf("-----------------------------------------------------------------------------\n");
+		  printf(" 5- Afficher l'arbre couvrant de N villes\n");
+		  printf("-----------------------------------------------------------------------------\n");
+        printf(" 6- Sortir du programme\n");
+		  printf("-----------------------------------------------------------------------------\n");
+        printf("\n***************************************************************************\n");
+        scanf("%d",&i);
+
+        switch(i){
+            case 1:
+                Afficher_Graphe_sans_voisin(N,Nb);
+                break;
+            case 2:
+                while (n>Nb){
+                printf("\n **Tapez votre nombre n correspondant au nombre de villes de votre choix**\n\n");
+                scanf("%d",&n);}
+                Generateur_HTML ("map.html", N, n);
+                printf("\n**Le fichier  map-output.html correspondant a ete genere (dans le dossier)**\n");
+                n=Nb+1;
+                break;
+            case 3:
+                Afficher_Graphe(N,Nb); /*avec les voisins*/
+                break;
+            case 4:
+					 printf("\n");
+                printf("*******************************************************************\n");
+                printf("Vous pouvez utiliser la completion pour retrouver les villes de votre fichier\n");
+					 printf("	 (en appuyant sur entree) !\n");
+                printf("*******************************************************************\n");
+                printf("\n");
+
+                scanf("%c",&c);
+                printf("\n");
+                printf("**Entrez une ville de départ (Attention à la casse !):\n");
+                fgets(in,taille,stdin);
+                printf("\n");
+
+                while (!Rechercher_Noeud(N,in)){
+                    completion(in,N);
+                    printf("\n");
+                    printf("**Entrez un nom de ville disponible dans la liste... (Attention à la casse !)**\n");
+                    printf("ou utilisez la completion pour une nouvelle ville : \n\n");
+                    printf("\n");
+                    fgets(in,taille,stdin);
+                    printf("\n");}
+                printf("**Entrez maintenant une ville d'arrivee (Attention à la casse !):\n");
+                printf("\n");
+                fgets(out,taille,stdin);
+                printf("\n");
+
+                while (!Rechercher_Noeud(N,out)){
+                    completion(out,N);
+                    printf("\n");
+                    printf("**Entrez un nom de ville disponible dans la liste...(Attention à la casse !)**\n");
+                    printf("	ou utilisez la completion pour une nouvelle ville : \n\n");
+                    fgets(out,taille,stdin);
+                    printf("\n");
+                }
+
+                T1=clock();
+                PCC (N,Nb,in,out,ant,poids);
+                T2=clock();
+                temps=(T2-T1)*1e-6;
+                printf(" * Djikstra en : %f * \n",temps);
+                Generateur_HTML2 ("map.html",N,Nb, ant,indice(N,in), indice(N,out));
+                printf("\n**Le fichier  map-output2.html correspondant a ete genere (dans le dossier)**\n");
+                break;
+				case 5:
+						while (N2>Nb){
+                printf("\n **Tapez votre nombre N correspondant au nombre de villes de votre choix**\n\n");
+                scanf("%d",&N2);}
+					 T1=clock();
+					 A=RemplirArbre(A,N,N2);
+					 A=Ligne(A,N2);
+					 T2=clock();
+					 temps=(T2-T1)*1e-6;
+                printf(" * Arbre rempli en : %f * \n",temps);
+					 printf("\n**Arbre rempli!**\n\n");
+                Generateur_HTML3 ("map.html", N, N2,A);
+                printf("\n**Le fichier  map-output3.html correspondant a ete genere (dans le dossier)**\n");
+                N2=Nb+1;
+                break;
+            case 6:
+						printf("\n** Au revoir! **\n\n");
+                break;
+            default: menu(N,Nb);
+                break;
+        }
+    }
+}
+
+
+/*****************************************************
+Fonction : remplit un fichier HTML avec les N plus grandes villes
+Retour :
+*****************************************************/
+void Generateur_HTML (char * html, Noeud* No, int N){
+    int i =1;
+    Noeud* n_temp;
+    char Nom[100]="map-output.html";
+    n_temp = No;
+    Noeud *NoeudCourant;
+    NoeudCourant = No;
+    FILE* fichier_html_entree = fopen(html,"r");
+
+    if (fichier_html_entree !=NULL) {
+        FILE* fichier_html_sortie = fopen(Nom,"w+");
+        if (fichier_html_sortie!=NULL) {
+            char ligne[200];
+            char *c=NULL;
+            while(c==NULL){
+                fgets(ligne,200,fichier_html_entree);
+                c=strstr(ligne, "var coordinates = [");
+                fputs( ligne,fichier_html_sortie);
+            }
+            for(i=1; i<=N;i++) {
+                if (i==N) {
+                    fprintf(fichier_html_sortie,"[%d,%f,%f]",i,NoeudCourant->v.C1, NoeudCourant->v.C2);NoeudCourant = NoeudCourant->Ville_Suivante;
+                }else{
+                    fprintf(fichier_html_sortie,"[%d,%f,%f],",i,NoeudCourant->v.C1, NoeudCourant->v.C2);
+                    NoeudCourant = NoeudCourant->Ville_Suivante;
+                }
+            }
+            fputs( "];",fichier_html_sortie);
+
+            while (strstr(ligne, "</html>")==NULL){
+                fgets(ligne,200,fichier_html_entree);
+                fputs( ligne,fichier_html_sortie);
+            }
+                fclose(fichier_html_sortie);
+        }else{
+            printf("\n erreur dans l'ouverture du fichier de sortie\n");
+        }
+        fclose(fichier_html_entree);
+        }else{
+            printf("\n erreur dans l'ouverture du fichier d'entree\n");
+        }
+}
+
+
+/*****************************************************
+Fonction : remplit un fichier HTML en indiquant le plus court chemin entre deux villes
+Retour :
+*****************************************************/
+void Generateur_HTML2 (char * html,Noeud* N, int Nb, int ant[Nb][2],int indicev1, int indicev2){
+
+    int i =1;
+    int k=1;
+    char Nom[100]="map-output2.html";
+    /*int* pointeurNb;
+    *pointeurNb= &Nbvilles;*/
+    int indicecourant = indicev2;
+    int tab[Nb];
+
+    Villesnecessaire (N,Nb,ant,indicev1,indicev2,tab);
+    FILE* fichier_html_entree = fopen(html,"r");
+
+    if (fichier_html_entree !=NULL) {
+        FILE* fichier_html_sortie = fopen(Nom,"w+");
+        if (fichier_html_sortie!=NULL) {
+            char ligne[500];
+            char *c=NULL;
+            while(c==NULL){
+                fgets(ligne,500,fichier_html_entree);
+                c=strstr(ligne, "var coordinates = [");
+                fputs( ligne,fichier_html_sortie);
+            }
+
+            while(indicecourant!=indicev1) {
+/*if (i==N) {fprintf(fichier_html_sortie,"[%d,%f,%f]",i,NoeudCourant->v.C1, NoeudCourant->v.C2);NoeudCourant = NoeudCourant->Ville_Suivante;}*/
+                fprintf(fichier_html_sortie,"[%d,%f,%f],",i, c1_indice( indicecourant, N), c2_indice( indicecourant, N));
+                indicecourant=tab[indicecourant]; i++;}
+
+                if (indicecourant==indicev1) {
+                    fprintf(fichier_html_sortie,"[%d,%f,%f]",i,c1_indice( indicecourant, N), c2_indice( indicecourant, N));
+                }
+                fputs( "];",fichier_html_sortie);fputs( " ",fichier_html_sortie);fputs( "var edges = [",fichier_html_sortie);
+
+                for(k=1; k<i; k++) {
+                    fprintf(fichier_html_sortie,"[%d,%d],",k, k+1);
+                }
+                fputs( "];",fichier_html_sortie);fputs( " ",fichier_html_sortie);
+
+                while (strstr(ligne, "</html>")==NULL){
+                    fgets(ligne,500,fichier_html_entree);
+                    fputs( ligne,fichier_html_sortie);
+                }
+
+                fclose(fichier_html_sortie);
+        }else{
+            printf("\n erreur dans l'ouverture du fichier de sortie\n");
+        }
+        fclose(fichier_html_entree);
+    }else{
+        printf("\n erreur dans l'ouverture du fichier d'entree\n");
+    }
+}
+
+void Generateur_HTML3 (char * html,Noeud* N, int Nb, Arbre* A)
+{
+int i =0;
+char Nom[100]="map-output3.html";
+
+/*int* pointeurNb;
+*pointeurNb= &Nbvilles;*/
+if (A!=NULL){
+
+
+ FILE* fichier_html_entree = fopen(html,"r");
+if (fichier_html_entree !=NULL) {
+   FILE* fichier_html_sortie = fopen(Nom,"w+");
+    if (fichier_html_sortie!=NULL) {
+char ligne[200];
+char *c=NULL;
+	while(c==NULL)
+	{
+
+		fgets(ligne,200,fichier_html_entree);
+          c=strstr(ligne, "var coordinates = [");
+		fputs( ligne,fichier_html_sortie);
+	}
+
+	while(i<(Nb-1)) {
+/*if (i==N) {fprintf(fichier_html_sortie,"[%d,%f,%f]",i,NoeudCourant->v.C1, NoeudCourant->v.C2);NoeudCourant = NoeudCourant->Ville_Suivante;}*/
+
+		fprintf(fichier_html_sortie,"[%d,%f,%f],",i, c1_indice( i, N), c2_indice( i, N));
+		 i++;}
+
+if (i==Nb-1) {fprintf(fichier_html_sortie,"[%d,%f,%f]",i,c1_indice( i, N), c2_indice( i, N));}
+
+	
+
+fputs( "];",fichier_html_sortie);fputs( " ",fichier_html_sortie);fputs( "var edges = [",fichier_html_sortie);
+while(A!=NULL) {
+if(A->V1.indice != A->V2.indice){
+fprintf(fichier_html_sortie,"[%d,%d],",A->V1.indice, A->V2.indice);}
+
+A=A->Suivant;
+}
+
+fputs( "];",fichier_html_sortie);fputs( " ",fichier_html_sortie);
+
+
+	while (strstr(ligne, "</html>")==NULL){
+	fgets(ligne,200,fichier_html_entree);
+	fputs( ligne,fichier_html_sortie);}
+
+
+fclose(fichier_html_sortie);}
+else { printf("\n erreur dans l'ouverture du fichier de sortie\n");}
+fclose(fichier_html_entree);}
+else { printf("\n erreur dans l'ouverture du fichier d'entree\n");}
+}
+else /*A==NULL*/{ printf("\n Pas d'Arbre possible ! \n");}
+
+}
+

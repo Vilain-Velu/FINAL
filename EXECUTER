@@ -1,0 +1,7 @@
+#!/bin/bash
+./clean
+make -f makefile
+echo "Entrez le nom de votre fichier :"
+read nom
+
+./projet ./$nom

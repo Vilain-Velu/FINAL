@@ -1,0 +1,12 @@
+Pour lancer l'application, 2 méthodes sont possibles :
+
+- la première consiste à compiler à la main, via le terminal. On se déplace dans le dossier principal du projet, on entre "make -f makefile" puis, on entre "./projet ./"nom du fichier à lire"
+
+- Pour la deuxieme méthode, il suffit de double cliquer sur le script executer du dossier principal.
+
+Les fichiers générés ont pour nom respectif map-out.html pour l'affichage des N plus grandes villes, map-out2.html pour le calcul du plus court chemin, et enfin map-out3.html pour l'arbre recouvrant. Ces fichiers sont enregistrés dans le dossier principal.
+
+ATTENTION: Le logiciel fonctionne convenablement pour un fichier de taille inférieur à 10000 (environ 30sec de chargement pour ce cas).
+           Le logiciel ne permet pas de générer des arbres recouvrant trop grand (>300 villes) en un temps raisonnable, et ne peut également pas en générer 2 successivement
+
+- Pour modifier la distance max pouvant être parcourue par l'avion, il faut ouvrir le fichier graphe.c et modifier la constante max en en-tête.

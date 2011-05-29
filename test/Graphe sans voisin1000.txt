@@ -1,0 +1,6999 @@
+----------------------------
+Nom 
+Paris 
+Nb habitants 2187534 
+Coord 1 48.860001 
+Coord 2 2.340000 
+
+----------------------------
+Nom 
+Marseille 
+Nb habitants 779679 
+Coord 1 43.310001 
+Coord 2 5.370000 
+
+----------------------------
+Nom 
+Lyon 
+Nb habitants 489005 
+Coord 1 45.759998 
+Coord 2 4.830000 
+
+----------------------------
+Nom 
+Toulouse 
+Nb habitants 458600 
+Coord 1 43.619999 
+Coord 2 1.450000 
+
+----------------------------
+Nom 
+Nice 
+Nb habitants 331397 
+Coord 1 43.700001 
+Coord 2 7.270000 
+
+----------------------------
+Nom 
+Nantes 
+Nb habitants 281394 
+Coord 1 47.230000 
+Coord 2 -1.570000 
+
+----------------------------
+Nom 
+Strasbourg 
+Nb habitants 280261 
+Coord 1 48.580002 
+Coord 2 7.760000 
+
+----------------------------
+Nom 
+Lille 
+Nb habitants 260840 
+Coord 1 50.639999 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+Montpellier 
+Nb habitants 260562 
+Coord 1 43.610001 
+Coord 2 3.870000 
+
+----------------------------
+Nom 
+Bordeaux 
+Nb habitants 241724 
+Coord 1 44.840000 
+Coord 2 -0.580000 
+
+----------------------------
+Nom 
+Rennes 
+Nb habitants 210165 
+Coord 1 48.110001 
+Coord 2 -1.680000 
+
+----------------------------
+Nom 
+Reims 
+Nb habitants 205102 
+Coord 1 49.250000 
+Coord 2 4.030000 
+
+----------------------------
+Nom 
+Angers 
+Nb habitants 181863 
+Coord 1 47.480000 
+Coord 2 -0.540000 
+
+----------------------------
+Nom 
+Le Havre 
+Nb habitants 179841 
+Coord 1 49.500000 
+Coord 2 0.120000 
+
+----------------------------
+Nom 
+Saint-Etienne 
+Nb habitants 169895 
+Coord 1 45.430000 
+Coord 2 4.390000 
+
+----------------------------
+Nom 
+Toulon 
+Nb habitants 169284 
+Coord 1 43.130001 
+Coord 2 5.920000 
+
+----------------------------
+Nom 
+Grenoble 
+Nb habitants 160529 
+Coord 1 45.189999 
+Coord 2 5.720000 
+
+----------------------------
+Nom 
+Aix-en-Provence 
+Nb habitants 157102 
+Coord 1 43.529999 
+Coord 2 5.440000 
+
+----------------------------
+Nom 
+Nîmes 
+Nb habitants 154929 
+Coord 1 43.840000 
+Coord 2 4.350000 
+
+----------------------------
+Nom 
+Limoges 
+Nb habitants 147384 
+Coord 1 45.830002 
+Coord 2 1.250000 
+
+----------------------------
+Nom 
+Amiens 
+Nb habitants 147021 
+Coord 1 49.900002 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Tours 
+Nb habitants 146428 
+Coord 1 47.380001 
+Coord 2 0.690000 
+
+----------------------------
+Nom 
+Dijon 
+Nb habitants 145441 
+Coord 1 47.330002 
+Coord 2 5.030000 
+
+----------------------------
+Nom 
+Le Mans 
+Nb habitants 141159 
+Coord 1 48.000000 
+Coord 2 0.200000 
+
+----------------------------
+Nom 
+Brest 
+Nb habitants 138747 
+Coord 1 48.389999 
+Coord 2 -4.500000 
+
+----------------------------
+Nom 
+Clermont-Ferrand 
+Nb habitants 136922 
+Coord 1 45.779999 
+Coord 2 3.080000 
+
+----------------------------
+Nom 
+Villeurbanne 
+Nb habitants 135093 
+Coord 1 45.770000 
+Coord 2 4.880000 
+
+----------------------------
+Nom 
+Besancon 
+Nb habitants 134159 
+Coord 1 47.240002 
+Coord 2 6.020000 
+
+----------------------------
+Nom 
+Orleans 
+Nb habitants 131669 
+Coord 1 47.900002 
+Coord 2 1.900000 
+
+----------------------------
+Nom 
+Metz 
+Nb habitants 121576 
+Coord 1 49.119999 
+Coord 2 6.180000 
+
+----------------------------
+Nom 
+Rouen 
+Nb habitants 115630 
+Coord 1 49.439999 
+Coord 2 1.080000 
+
+----------------------------
+Nom 
+Boulogne-Billancourt 
+Nb habitants 111743 
+Coord 1 48.830002 
+Coord 2 2.240000 
+
+----------------------------
+Nom 
+Perpignan 
+Nb habitants 111669 
+Coord 1 42.700001 
+Coord 2 2.890000 
+
+----------------------------
+Nom 
+Mulhouse 
+Nb habitants 110562 
+Coord 1 47.759998 
+Coord 2 7.340000 
+
+----------------------------
+Nom 
+Argenteuil 
+Nb habitants 107857 
+Coord 1 48.939999 
+Coord 2 2.240000 
+
+----------------------------
+Nom 
+Caen 
+Nb habitants 105785 
+Coord 1 49.189999 
+Coord 2 -0.360000 
+
+----------------------------
+Nom 
+Nancy 
+Nb habitants 105116 
+Coord 1 48.689999 
+Coord 2 6.170000 
+
+----------------------------
+Nom 
+Saint-Denis 
+Nb habitants 104881 
+Coord 1 48.939999 
+Coord 2 2.360000 
+
+----------------------------
+Nom 
+Asnieres-sur-Seine 
+Nb habitants 97040 
+Coord 1 48.910000 
+Coord 2 2.290000 
+
+----------------------------
+Nom 
+Roubaix 
+Nb habitants 93935 
+Coord 1 50.689999 
+Coord 2 3.170000 
+
+----------------------------
+Nom 
+Colombes 
+Nb habitants 91967 
+Coord 1 48.930000 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Montreuil 
+Nb habitants 91598 
+Coord 1 48.860001 
+Coord 2 2.430000 
+
+----------------------------
+Nom 
+Avignon 
+Nb habitants 90426 
+Coord 1 43.959999 
+Coord 2 4.810000 
+
+----------------------------
+Nom 
+Tourcoing 
+Nb habitants 89572 
+Coord 1 50.720001 
+Coord 2 3.160000 
+
+----------------------------
+Nom 
+Nanterre 
+Nb habitants 88261 
+Coord 1 48.900002 
+Coord 2 2.200000 
+
+----------------------------
+Nom 
+Creteil 
+Nb habitants 87622 
+Coord 1 48.790001 
+Coord 2 2.450000 
+
+----------------------------
+Nom 
+Poitiers 
+Nb habitants 85648 
+Coord 1 46.580002 
+Coord 2 0.340000 
+
+----------------------------
+Nom 
+Versailles 
+Nb habitants 84225 
+Coord 1 48.810001 
+Coord 2 2.140000 
+
+----------------------------
+Nom 
+Pau 
+Nb habitants 83927 
+Coord 1 43.299999 
+Coord 2 -0.390000 
+
+----------------------------
+Nom 
+Vitry-sur-Seine 
+Nb habitants 83162 
+Coord 1 48.790001 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Aulnay-sous-Bois 
+Nb habitants 81717 
+Coord 1 48.959999 
+Coord 2 2.490000 
+
+----------------------------
+Nom 
+Courbevoie 
+Nb habitants 80175 
+Coord 1 48.900002 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Antibes 
+Nb habitants 79676 
+Coord 1 43.599998 
+Coord 2 7.120000 
+
+----------------------------
+Nom 
+Rueil-Malmaison 
+Nb habitants 79507 
+Coord 1 48.889999 
+Coord 2 2.170000 
+
+----------------------------
+Nom 
+Champigny-sur-Marne 
+Nb habitants 79075 
+Coord 1 48.820000 
+Coord 2 2.510000 
+
+----------------------------
+Nom 
+Aubervilliers 
+Nb habitants 77808 
+Coord 1 48.919998 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Saint-Maur-des-Fosses 
+Nb habitants 77564 
+Coord 1 48.799999 
+Coord 2 2.490000 
+
+----------------------------
+Nom 
+Merignac 
+Nb habitants 74995 
+Coord 1 44.869999 
+Coord 2 -0.650000 
+
+----------------------------
+Nom 
+Beziers 
+Nb habitants 74819 
+Coord 1 43.349998 
+Coord 2 3.210000 
+
+----------------------------
+Nom 
+La Rochelle 
+Nb habitants 74760 
+Coord 1 46.169998 
+Coord 2 -1.180000 
+
+----------------------------
+Nom 
+Calais 
+Nb habitants 71756 
+Coord 1 50.950001 
+Coord 2 1.860000 
+
+----------------------------
+Nom 
+Cannes 
+Nb habitants 70891 
+Coord 1 43.560001 
+Coord 2 7.020000 
+
+----------------------------
+Nom 
+Dunkirk 
+Nb habitants 70534 
+Coord 1 51.040001 
+Coord 2 2.340000 
+
+----------------------------
+Nom 
+Issy-les-Moulineaux 
+Nb habitants 69876 
+Coord 1 48.830002 
+Coord 2 2.260000 
+
+----------------------------
+Nom 
+Levallois-Perret 
+Nb habitants 69540 
+Coord 1 48.900002 
+Coord 2 2.290000 
+
+----------------------------
+Nom 
+Saint-Nazaire 
+Nb habitants 66643 
+Coord 1 47.279999 
+Coord 2 -2.220000 
+
+----------------------------
+Nom 
+Noisy-le-Grand 
+Nb habitants 66613 
+Coord 1 48.849998 
+Coord 2 2.550000 
+
+----------------------------
+Nom 
+La Roche-sur-Yon 
+Nb habitants 66462 
+Coord 1 46.669998 
+Coord 2 -1.440000 
+
+----------------------------
+Nom 
+Chambery 
+Nb habitants 65067 
+Coord 1 45.580002 
+Coord 2 5.910000 
+
+----------------------------
+Nom 
+Clichy 
+Nb habitants 64400 
+Coord 1 48.910000 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Ivry-sur-Seine 
+Nb habitants 64006 
+Coord 1 48.820000 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+La Seyne-sur-Mer 
+Nb habitants 63919 
+Coord 1 43.110001 
+Coord 2 5.870000 
+
+----------------------------
+Nom 
+Colmar 
+Nb habitants 63907 
+Coord 1 48.080002 
+Coord 2 7.360000 
+
+----------------------------
+Nom 
+Drancy 
+Nb habitants 63209 
+Coord 1 48.939999 
+Coord 2 2.460000 
+
+----------------------------
+Nom 
+Neuilly-sur-Seine 
+Nb habitants 62736 
+Coord 1 48.889999 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+Bourges 
+Nb habitants 62444 
+Coord 1 47.080002 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Quimper 
+Nb habitants 62375 
+Coord 1 47.990002 
+Coord 2 -4.110000 
+
+----------------------------
+Nom 
+Valence 
+Nb habitants 61906 
+Coord 1 44.939999 
+Coord 2 4.890000 
+
+----------------------------
+Nom 
+Evreux 
+Nb habitants 60604 
+Coord 1 49.029999 
+Coord 2 1.140000 
+
+----------------------------
+Nom 
+Antony 
+Nb habitants 60266 
+Coord 1 48.759998 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Troyes 
+Nb habitants 60170 
+Coord 1 48.299999 
+Coord 2 4.080000 
+
+----------------------------
+Nom 
+Villeneuve-d'Ascq 
+Nb habitants 59070 
+Coord 1 50.619999 
+Coord 2 3.140000 
+
+----------------------------
+Nom 
+Evry 
+Nb habitants 58901 
+Coord 1 48.639999 
+Coord 2 2.440000 
+
+----------------------------
+Nom 
+Pessac 
+Nb habitants 58875 
+Coord 1 44.799999 
+Coord 2 -0.660000 
+
+----------------------------
+Nom 
+Sarcelles 
+Nb habitants 58595 
+Coord 1 49.000000 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+Frejus 
+Nb habitants 58391 
+Coord 1 43.450001 
+Coord 2 6.730000 
+
+----------------------------
+Nom 
+Venissieux 
+Nb habitants 58223 
+Coord 1 45.689999 
+Coord 2 4.860000 
+
+----------------------------
+Nom 
+Sartrouville 
+Nb habitants 57474 
+Coord 1 48.939999 
+Coord 2 2.180000 
+
+----------------------------
+Nom 
+Meaux 
+Nb habitants 57175 
+Coord 1 48.959999 
+Coord 2 2.880000 
+
+----------------------------
+Nom 
+Saint-Brieuc 
+Nb habitants 57134 
+Coord 1 48.520000 
+Coord 2 -2.770000 
+
+----------------------------
+Nom 
+Cergy 
+Nb habitants 56916 
+Coord 1 49.040001 
+Coord 2 2.070000 
+
+----------------------------
+Nom 
+Belfort 
+Nb habitants 56430 
+Coord 1 47.650002 
+Coord 2 6.850000 
+
+----------------------------
+Nom 
+Pantin 
+Nb habitants 56350 
+Coord 1 48.900002 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Maisons-Alfort 
+Nb habitants 56314 
+Coord 1 48.810001 
+Coord 2 2.440000 
+
+----------------------------
+Nom 
+Brive-la-Gaillarde 
+Nb habitants 56231 
+Coord 1 45.160000 
+Coord 2 1.510000 
+
+----------------------------
+Nom 
+Lorient 
+Nb habitants 56062 
+Coord 1 47.740002 
+Coord 2 -3.370000 
+
+----------------------------
+Nom 
+Blois 
+Nb habitants 55501 
+Coord 1 47.590000 
+Coord 2 1.320000 
+
+----------------------------
+Nom 
+Albi 
+Nb habitants 55147 
+Coord 1 43.930000 
+Coord 2 2.150000 
+
+----------------------------
+Nom 
+Ajaccio 
+Nb habitants 54650 
+Coord 1 41.930000 
+Coord 2 8.730000 
+
+----------------------------
+Nom 
+Arles 
+Nb habitants 54518 
+Coord 1 43.689999 
+Coord 2 4.630000 
+
+----------------------------
+Nom 
+Vannes 
+Nb habitants 54428 
+Coord 1 47.660000 
+Coord 2 -2.760000 
+
+----------------------------
+Nom 
+Chateauroux 
+Nb habitants 54375 
+Coord 1 46.810001 
+Coord 2 1.700000 
+
+----------------------------
+Nom 
+Tarbes 
+Nb habitants 54334 
+Coord 1 43.240002 
+Coord 2 0.080000 
+
+----------------------------
+Nom 
+Clamart 
+Nb habitants 54229 
+Coord 1 48.799999 
+Coord 2 2.260000 
+
+----------------------------
+Nom 
+Fontenay-sous-Bois 
+Nb habitants 53312 
+Coord 1 48.849998 
+Coord 2 2.500000 
+
+----------------------------
+Nom 
+Chalons-en-Champagne 
+Nb habitants 53071 
+Coord 1 48.970001 
+Coord 2 4.360000 
+
+----------------------------
+Nom 
+Narbonne 
+Nb habitants 52756 
+Coord 1 43.189999 
+Coord 2 2.900000 
+
+----------------------------
+Nom 
+Angouleme 
+Nb habitants 52429 
+Coord 1 45.660000 
+Coord 2 0.150000 
+
+----------------------------
+Nom 
+Carcassonne 
+Nb habitants 51677 
+Coord 1 43.220001 
+Coord 2 2.340000 
+
+----------------------------
+Nom 
+Saint-Quentin 
+Nb habitants 51607 
+Coord 1 49.849998 
+Coord 2 3.280000 
+
+----------------------------
+Nom 
+Cholet 
+Nb habitants 51318 
+Coord 1 47.070000 
+Coord 2 -0.880000 
+
+----------------------------
+Nom 
+Niort 
+Nb habitants 51304 
+Coord 1 46.320000 
+Coord 2 -0.470000 
+
+----------------------------
+Nom 
+Beauvais 
+Nb habitants 50914 
+Coord 1 49.430000 
+Coord 2 2.090000 
+
+----------------------------
+Nom 
+Grasse 
+Nb habitants 50497 
+Coord 1 43.669998 
+Coord 2 6.920000 
+
+----------------------------
+Nom 
+Montauban 
+Nb habitants 50438 
+Coord 1 44.020000 
+Coord 2 1.350000 
+
+----------------------------
+Nom 
+Arras 
+Nb habitants 50196 
+Coord 1 50.290001 
+Coord 2 2.780000 
+
+----------------------------
+Nom 
+Bondy 
+Nb habitants 50062 
+Coord 1 48.910000 
+Coord 2 2.470000 
+
+----------------------------
+Nom 
+Saint-Malo 
+Nb habitants 49893 
+Coord 1 48.660000 
+Coord 2 -2.010000 
+
+----------------------------
+Nom 
+Cagnes-sur-Mer 
+Nb habitants 49764 
+Coord 1 43.680000 
+Coord 2 7.130000 
+
+----------------------------
+Nom 
+Le Blanc-Mesnil 
+Nb habitants 49698 
+Coord 1 48.959999 
+Coord 2 2.470000 
+
+----------------------------
+Nom 
+Saint-Herblain 
+Nb habitants 49403 
+Coord 1 47.209999 
+Coord 2 -1.650000 
+
+----------------------------
+Nom 
+Suresnes 
+Nb habitants 49276 
+Coord 1 48.869999 
+Coord 2 2.220000 
+
+----------------------------
+Nom 
+Villejuif 
+Nb habitants 49155 
+Coord 1 48.799999 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Charleville-Mezieres 
+Nb habitants 48912 
+Coord 1 49.750000 
+Coord 2 4.730000 
+
+----------------------------
+Nom 
+Castres 
+Nb habitants 48697 
+Coord 1 43.610001 
+Coord 2 2.230000 
+
+----------------------------
+Nom 
+Chelles 
+Nb habitants 48660 
+Coord 1 48.889999 
+Coord 2 2.600000 
+
+----------------------------
+Nom 
+Istres 
+Nb habitants 48579 
+Coord 1 43.509998 
+Coord 2 4.980000 
+
+----------------------------
+Nom 
+Hyeres 
+Nb habitants 48427 
+Coord 1 43.130001 
+Coord 2 6.120000 
+
+----------------------------
+Nom 
+Vincennes 
+Nb habitants 48424 
+Coord 1 48.849998 
+Coord 2 2.440000 
+
+----------------------------
+Nom 
+Boulogne-sur-Mer 
+Nb habitants 48277 
+Coord 1 50.720001 
+Coord 2 1.600000 
+
+----------------------------
+Nom 
+Laval 
+Nb habitants 48167 
+Coord 1 48.070000 
+Coord 2 -0.780000 
+
+----------------------------
+Nom 
+Sevran 
+Nb habitants 48158 
+Coord 1 48.930000 
+Coord 2 2.520000 
+
+----------------------------
+Nom 
+Douai 
+Nb habitants 48095 
+Coord 1 50.369999 
+Coord 2 3.080000 
+
+----------------------------
+Nom 
+Martigues 
+Nb habitants 47429 
+Coord 1 43.410000 
+Coord 2 5.040000 
+
+----------------------------
+Nom 
+Annecy 
+Nb habitants 47229 
+Coord 1 45.910000 
+Coord 2 6.120000 
+
+----------------------------
+Nom 
+Bourg-en-Bresse 
+Nb habitants 47229 
+Coord 1 46.209999 
+Coord 2 5.210000 
+
+----------------------------
+Nom 
+Valenciennes 
+Nb habitants 47088 
+Coord 1 50.369999 
+Coord 2 3.520000 
+
+----------------------------
+Nom 
+Gap 
+Nb habitants 46887 
+Coord 1 44.570000 
+Coord 2 6.080000 
+
+----------------------------
+Nom 
+Aubagne 
+Nb habitants 46767 
+Coord 1 43.290001 
+Coord 2 5.560000 
+
+----------------------------
+Nom 
+Epinay-sur-Seine 
+Nb habitants 46459 
+Coord 1 48.970001 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Bayonne 
+Nb habitants 46233 
+Coord 1 43.500000 
+Coord 2 -1.480000 
+
+----------------------------
+Nom 
+Bobigny 
+Nb habitants 46218 
+Coord 1 48.910000 
+Coord 2 2.440000 
+
+----------------------------
+Nom 
+Thionville 
+Nb habitants 46079 
+Coord 1 49.360001 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Talence 
+Nb habitants 45957 
+Coord 1 44.820000 
+Coord 2 -0.570000 
+
+----------------------------
+Nom 
+Chartres 
+Nb habitants 45606 
+Coord 1 48.459999 
+Coord 2 1.480000 
+
+----------------------------
+Nom 
+Meudon 
+Nb habitants 45559 
+Coord 1 48.820000 
+Coord 2 2.240000 
+
+----------------------------
+Nom 
+Montlucon 
+Nb habitants 45529 
+Coord 1 46.340000 
+Coord 2 2.580000 
+
+----------------------------
+Nom 
+Mantes-la-Jolie 
+Nb habitants 45110 
+Coord 1 48.990002 
+Coord 2 1.700000 
+
+----------------------------
+Nom 
+Compiegne 
+Nb habitants 45095 
+Coord 1 49.410000 
+Coord 2 2.820000 
+
+----------------------------
+Nom 
+Salon-de-Provence 
+Nb habitants 44761 
+Coord 1 43.660000 
+Coord 2 5.080000 
+
+----------------------------
+Nom 
+Nevers 
+Nb habitants 44596 
+Coord 1 47.000000 
+Coord 2 3.150000 
+
+----------------------------
+Nom 
+Pontault-Combault 
+Nb habitants 44582 
+Coord 1 48.790001 
+Coord 2 2.610000 
+
+----------------------------
+Nom 
+Le Cannet 
+Nb habitants 44439 
+Coord 1 43.590000 
+Coord 2 7.010000 
+
+----------------------------
+Nom 
+Rosny-sous-Bois 
+Nb habitants 44213 
+Coord 1 48.880001 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Anglet 
+Nb habitants 43838 
+Coord 1 43.490002 
+Coord 2 -1.510000 
+
+----------------------------
+Nom 
+Caluire-et-Cuire 
+Nb habitants 43573 
+Coord 1 45.799999 
+Coord 2 4.830000 
+
+----------------------------
+Nom 
+Bastia 
+Nb habitants 43340 
+Coord 1 42.709999 
+Coord 2 9.460000 
+
+----------------------------
+Nom 
+Savigny-sur-Orge 
+Nb habitants 43176 
+Coord 1 48.689999 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Haguenau 
+Nb habitants 43044 
+Coord 1 48.820000 
+Coord 2 7.780000 
+
+----------------------------
+Nom 
+Chalon-sur-Saone 
+Nb habitants 43037 
+Coord 1 46.790001 
+Coord 2 4.840000 
+
+----------------------------
+Nom 
+Montigny-le-Bretonneux 
+Nb habitants 42963 
+Coord 1 48.759998 
+Coord 2 2.030000 
+
+----------------------------
+Nom 
+Ales 
+Nb habitants 42745 
+Coord 1 44.130001 
+Coord 2 4.080000 
+
+----------------------------
+Nom 
+Wattrelos 
+Nb habitants 42627 
+Coord 1 50.709999 
+Coord 2 3.210000 
+
+----------------------------
+Nom 
+Saint-Germain-en-Laye 
+Nb habitants 42617 
+Coord 1 48.900002 
+Coord 2 2.100000 
+
+----------------------------
+Nom 
+Gennevilliers 
+Nb habitants 42538 
+Coord 1 48.930000 
+Coord 2 2.310000 
+
+----------------------------
+Nom 
+Draguignan 
+Nb habitants 42398 
+Coord 1 43.549999 
+Coord 2 6.460000 
+
+----------------------------
+Nom 
+Auxerre 
+Nb habitants 42389 
+Coord 1 47.810001 
+Coord 2 3.560000 
+
+----------------------------
+Nom 
+Reze 
+Nb habitants 42374 
+Coord 1 47.189999 
+Coord 2 -1.540000 
+
+----------------------------
+Nom 
+Livry-Gargan 
+Nb habitants 42054 
+Coord 1 48.919998 
+Coord 2 2.540000 
+
+----------------------------
+Nom 
+Saint-Priest 
+Nb habitants 41862 
+Coord 1 45.689999 
+Coord 2 4.930000 
+
+----------------------------
+Nom 
+Corbeil-Essonnes 
+Nb habitants 41621 
+Coord 1 48.610001 
+Coord 2 2.470000 
+
+----------------------------
+Nom 
+Plaisir 
+Nb habitants 41403 
+Coord 1 48.810001 
+Coord 2 1.950000 
+
+----------------------------
+Nom 
+Melun 
+Nb habitants 41251 
+Coord 1 48.540001 
+Coord 2 2.650000 
+
+----------------------------
+Nom 
+Puteaux 
+Nb habitants 40981 
+Coord 1 48.880001 
+Coord 2 2.230000 
+
+----------------------------
+Nom 
+Noisy-le-Sec 
+Nb habitants 40903 
+Coord 1 48.889999 
+Coord 2 2.460000 
+
+----------------------------
+Nom 
+Bagneux 
+Nb habitants 40806 
+Coord 1 48.790001 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Villepinte 
+Nb habitants 40729 
+Coord 1 48.970001 
+Coord 2 2.530000 
+
+----------------------------
+Nom 
+Epinal 
+Nb habitants 40584 
+Coord 1 48.180000 
+Coord 2 6.440000 
+
+----------------------------
+Nom 
+Sete 
+Nb habitants 40306 
+Coord 1 43.410000 
+Coord 2 3.680000 
+
+----------------------------
+Nom 
+Vitrolles 
+Nb habitants 40236 
+Coord 1 43.470001 
+Coord 2 5.240000 
+
+----------------------------
+Nom 
+Six-Fours-les-Plages 
+Nb habitants 40232 
+Coord 1 43.099998 
+Coord 2 5.830000 
+
+----------------------------
+Nom 
+Garges-les-Gonesse 
+Nb habitants 40093 
+Coord 1 48.970001 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Montrouge 
+Nb habitants 39907 
+Coord 1 48.810001 
+Coord 2 2.320000 
+
+----------------------------
+Nom 
+Gagny 
+Nb habitants 39849 
+Coord 1 48.889999 
+Coord 2 2.530000 
+
+----------------------------
+Nom 
+Massy 
+Nb habitants 39821 
+Coord 1 48.720001 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+Mont-de-Marsan 
+Nb habitants 39524 
+Coord 1 43.900002 
+Coord 2 -0.510000 
+
+----------------------------
+Nom 
+Guyancourt 
+Nb habitants 39502 
+Coord 1 48.770000 
+Coord 2 2.060000 
+
+----------------------------
+Nom 
+Lens 
+Nb habitants 39493 
+Coord 1 50.439999 
+Coord 2 2.830000 
+
+----------------------------
+Nom 
+Roanne 
+Nb habitants 39489 
+Coord 1 46.049999 
+Coord 2 4.070000 
+
+----------------------------
+Nom 
+Marcq-en-Baroeul 
+Nb habitants 39409 
+Coord 1 50.669998 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+La Courneuve 
+Nb habitants 39386 
+Coord 1 48.930000 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+Saint-Ouen 
+Nb habitants 39380 
+Coord 1 48.910000 
+Coord 2 2.340000 
+
+----------------------------
+Nom 
+Tremblay-en-France 
+Nb habitants 39372 
+Coord 1 48.990002 
+Coord 2 2.550000 
+
+----------------------------
+Nom 
+Saint-Martin-d'Heres 
+Nb habitants 39279 
+Coord 1 45.169998 
+Coord 2 5.750000 
+
+----------------------------
+Nom 
+Conflans-Sainte-Honorine 
+Nb habitants 39133 
+Coord 1 49.009998 
+Coord 2 2.100000 
+
+----------------------------
+Nom 
+Saint-Raphaël 
+Nb habitants 38717 
+Coord 1 43.439999 
+Coord 2 6.760000 
+
+----------------------------
+Nom 
+Alfortville 
+Nb habitants 38656 
+Coord 1 48.810001 
+Coord 2 2.420000 
+
+----------------------------
+Nom 
+Chatellerault 
+Nb habitants 38515 
+Coord 1 46.810001 
+Coord 2 0.540000 
+
+----------------------------
+Nom 
+Montelimar 
+Nb habitants 38029 
+Coord 1 44.570000 
+Coord 2 4.740000 
+
+----------------------------
+Nom 
+Saint-Chamond 
+Nb habitants 37990 
+Coord 1 45.490002 
+Coord 2 4.500000 
+
+----------------------------
+Nom 
+Joue-les-Tours 
+Nb habitants 37895 
+Coord 1 47.360001 
+Coord 2 0.650000 
+
+----------------------------
+Nom 
+Cambrai 
+Nb habitants 37779 
+Coord 1 50.169998 
+Coord 2 3.230000 
+
+----------------------------
+Nom 
+Marignane 
+Nb habitants 37625 
+Coord 1 43.419998 
+Coord 2 5.220000 
+
+----------------------------
+Nom 
+Bron 
+Nb habitants 37489 
+Coord 1 45.740002 
+Coord 2 4.910000 
+
+----------------------------
+Nom 
+Poissy 
+Nb habitants 37252 
+Coord 1 48.930000 
+Coord 2 2.040000 
+
+----------------------------
+Nom 
+Choisy-le-Roi 
+Nb habitants 37040 
+Coord 1 48.759998 
+Coord 2 2.400000 
+
+----------------------------
+Nom 
+Perigueux 
+Nb habitants 36630 
+Coord 1 45.180000 
+Coord 2 0.710000 
+
+----------------------------
+Nom 
+Neuilly-sur-Marne 
+Nb habitants 36442 
+Coord 1 48.849998 
+Coord 2 2.520000 
+
+----------------------------
+Nom 
+Aurillac 
+Nb habitants 36350 
+Coord 1 44.919998 
+Coord 2 2.430000 
+
+----------------------------
+Nom 
+Romans-sur-Isere 
+Nb habitants 36053 
+Coord 1 45.060001 
+Coord 2 5.040000 
+
+----------------------------
+Nom 
+Agen 
+Nb habitants 35956 
+Coord 1 44.200001 
+Coord 2 0.620000 
+
+----------------------------
+Nom 
+Vaulx-en-Velin 
+Nb habitants 35729 
+Coord 1 45.790001 
+Coord 2 4.910000 
+
+----------------------------
+Nom 
+Charenton-le-Pont 
+Nb habitants 35574 
+Coord 1 48.820000 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Sainte-Genevieve-des-Bois 
+Nb habitants 35414 
+Coord 1 48.639999 
+Coord 2 2.320000 
+
+----------------------------
+Nom 
+Tournefeuille 
+Nb habitants 35413 
+Coord 1 43.590000 
+Coord 2 1.340000 
+
+----------------------------
+Nom 
+Dieppe 
+Nb habitants 35404 
+Coord 1 49.930000 
+Coord 2 1.080000 
+
+----------------------------
+Nom 
+Franconville 
+Nb habitants 35321 
+Coord 1 48.980000 
+Coord 2 2.220000 
+
+----------------------------
+Nom 
+Elancourt 
+Nb habitants 35082 
+Coord 1 48.779999 
+Coord 2 1.950000 
+
+----------------------------
+Nom 
+Saumur 
+Nb habitants 35082 
+Coord 1 47.270000 
+Coord 2 -0.080000 
+
+----------------------------
+Nom 
+Biarritz 
+Nb habitants 35035 
+Coord 1 43.480000 
+Coord 2 -1.550000 
+
+----------------------------
+Nom 
+Chatenay-Malabry 
+Nb habitants 34853 
+Coord 1 48.779999 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+Macon 
+Nb habitants 34848 
+Coord 1 46.310001 
+Coord 2 4.810000 
+
+----------------------------
+Nom 
+Lievin 
+Nb habitants 34690 
+Coord 1 50.419998 
+Coord 2 2.770000 
+
+----------------------------
+Nom 
+Bagnolet 
+Nb habitants 34678 
+Coord 1 48.860001 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Villefranche-sur-Saone 
+Nb habitants 34486 
+Coord 1 45.990002 
+Coord 2 4.720000 
+
+----------------------------
+Nom 
+La Ciotat 
+Nb habitants 34430 
+Coord 1 43.180000 
+Coord 2 5.590000 
+
+----------------------------
+Nom 
+Nogent-sur-Marne 
+Nb habitants 34395 
+Coord 1 48.840000 
+Coord 2 2.470000 
+
+----------------------------
+Nom 
+Bethune 
+Nb habitants 34394 
+Coord 1 50.529999 
+Coord 2 2.640000 
+
+----------------------------
+Nom 
+Le Perreux-sur-Marne 
+Nb habitants 34147 
+Coord 1 48.840000 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Palaiseau 
+Nb habitants 34138 
+Coord 1 48.730000 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Villiers-sur-Marne 
+Nb habitants 34127 
+Coord 1 48.840000 
+Coord 2 2.550000 
+
+----------------------------
+Nom 
+Chatillon 
+Nb habitants 33576 
+Coord 1 48.810001 
+Coord 2 2.290000 
+
+----------------------------
+Nom 
+Vienne 
+Nb habitants 33541 
+Coord 1 45.529999 
+Coord 2 4.870000 
+
+----------------------------
+Nom 
+Maubeuge 
+Nb habitants 33322 
+Coord 1 50.279999 
+Coord 2 3.950000 
+
+----------------------------
+Nom 
+Colomiers 
+Nb habitants 33291 
+Coord 1 43.619999 
+Coord 2 1.330000 
+
+----------------------------
+Nom 
+Schiltigheim 
+Nb habitants 33205 
+Coord 1 48.599998 
+Coord 2 7.740000 
+
+----------------------------
+Nom 
+Villeneuve-Saint-Georges 
+Nb habitants 33146 
+Coord 1 48.740002 
+Coord 2 2.450000 
+
+----------------------------
+Nom 
+Thonon-les-Bains 
+Nb habitants 33088 
+Coord 1 46.380001 
+Coord 2 6.460000 
+
+----------------------------
+Nom 
+Saint-Medard-en-Jalles 
+Nb habitants 33055 
+Coord 1 44.900002 
+Coord 2 -0.720000 
+
+----------------------------
+Nom 
+Echirolles 
+Nb habitants 32873 
+Coord 1 45.150002 
+Coord 2 5.710000 
+
+----------------------------
+Nom 
+Goussainville 
+Nb habitants 32849 
+Coord 1 49.020000 
+Coord 2 2.470000 
+
+----------------------------
+Nom 
+Athis-Mons 
+Nb habitants 32777 
+Coord 1 48.709999 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+Saint-Sebastien-sur-Loire 
+Nb habitants 32746 
+Coord 1 47.220001 
+Coord 2 -1.510000 
+
+----------------------------
+Nom 
+Stains 
+Nb habitants 32687 
+Coord 1 48.950001 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Les Mureaux 
+Nb habitants 32630 
+Coord 1 49.000000 
+Coord 2 1.900000 
+
+----------------------------
+Nom 
+Houilles 
+Nb habitants 32438 
+Coord 1 48.919998 
+Coord 2 2.180000 
+
+----------------------------
+Nom 
+Villenave-d'Ornon 
+Nb habitants 32366 
+Coord 1 44.759998 
+Coord 2 -0.560000 
+
+----------------------------
+Nom 
+Le Kremlin-Bicetre 
+Nb habitants 32277 
+Coord 1 48.810001 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Orange 
+Nb habitants 32236 
+Coord 1 44.150002 
+Coord 2 4.810000 
+
+----------------------------
+Nom 
+Carpentras 
+Nb habitants 32223 
+Coord 1 44.070000 
+Coord 2 5.040000 
+
+----------------------------
+Nom 
+Pontoise 
+Nb habitants 32220 
+Coord 1 49.049999 
+Coord 2 2.090000 
+
+----------------------------
+Nom 
+Viry-Chatillon 
+Nb habitants 32115 
+Coord 1 48.669998 
+Coord 2 2.370000 
+
+----------------------------
+Nom 
+Saint-Dizier 
+Nb habitants 31891 
+Coord 1 48.650002 
+Coord 2 4.950000 
+
+----------------------------
+Nom 
+Creil 
+Nb habitants 31856 
+Coord 1 49.270000 
+Coord 2 2.460000 
+
+----------------------------
+Nom 
+Saint-Laurent-du-Var 
+Nb habitants 31851 
+Coord 1 43.680000 
+Coord 2 7.210000 
+
+----------------------------
+Nom 
+Chatou 
+Nb habitants 31621 
+Coord 1 48.889999 
+Coord 2 2.140000 
+
+----------------------------
+Nom 
+Soissons 
+Nb habitants 31573 
+Coord 1 49.389999 
+Coord 2 3.320000 
+
+----------------------------
+Nom 
+L'Hay-les-Roses 
+Nb habitants 31477 
+Coord 1 48.779999 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Thiais 
+Nb habitants 31284 
+Coord 1 48.759998 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+Rochefort 
+Nb habitants 31180 
+Coord 1 45.950001 
+Coord 2 -0.960000 
+
+----------------------------
+Nom 
+Saintes 
+Nb habitants 31172 
+Coord 1 45.750000 
+Coord 2 -0.620000 
+
+----------------------------
+Nom 
+Lomme 
+Nb habitants 31161 
+Coord 1 50.650002 
+Coord 2 2.980000 
+
+----------------------------
+Nom 
+Vandoeuvre-les-Nancy 
+Nb habitants 31123 
+Coord 1 48.650002 
+Coord 2 6.170000 
+
+----------------------------
+Nom 
+Champs-sur-Marne 
+Nb habitants 30961 
+Coord 1 48.860001 
+Coord 2 2.590000 
+
+----------------------------
+Nom 
+La Garde 
+Nb habitants 30920 
+Coord 1 43.139999 
+Coord 2 6.030000 
+
+----------------------------
+Nom 
+Alencon 
+Nb habitants 30899 
+Coord 1 48.439999 
+Coord 2 0.090000 
+
+----------------------------
+Nom 
+Sotteville-les-Rouen 
+Nb habitants 30778 
+Coord 1 49.419998 
+Coord 2 1.090000 
+
+----------------------------
+Nom 
+Draveil 
+Nb habitants 30577 
+Coord 1 48.680000 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+La Teste-de-Buch 
+Nb habitants 30233 
+Coord 1 44.630001 
+Coord 2 -1.160000 
+
+----------------------------
+Nom 
+Menton 
+Nb habitants 30207 
+Coord 1 43.790001 
+Coord 2 7.480000 
+
+----------------------------
+Nom 
+Pierrefitte-sur-Seine 
+Nb habitants 30186 
+Coord 1 48.959999 
+Coord 2 2.360000 
+
+----------------------------
+Nom 
+Clichy-sous-Bois 
+Nb habitants 30115 
+Coord 1 48.919998 
+Coord 2 2.550000 
+
+----------------------------
+Nom 
+Chaumont 
+Nb habitants 30109 
+Coord 1 48.110001 
+Coord 2 5.140000 
+
+----------------------------
+Nom 
+Yerres 
+Nb habitants 30022 
+Coord 1 48.720001 
+Coord 2 2.490000 
+
+----------------------------
+Nom 
+Rodez 
+Nb habitants 30001 
+Coord 1 44.360001 
+Coord 2 2.570000 
+
+----------------------------
+Nom 
+Lunel 
+Nb habitants 29957 
+Coord 1 43.689999 
+Coord 2 4.130000 
+
+----------------------------
+Nom 
+Dreux 
+Nb habitants 29923 
+Coord 1 48.740002 
+Coord 2 1.370000 
+
+----------------------------
+Nom 
+Le Chesnay 
+Nb habitants 29766 
+Coord 1 48.840000 
+Coord 2 2.120000 
+
+----------------------------
+Nom 
+Savigny-le-Temple 
+Nb habitants 29733 
+Coord 1 48.570000 
+Coord 2 2.580000 
+
+----------------------------
+Nom 
+Malakoff 
+Nb habitants 29660 
+Coord 1 48.820000 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Saint-Cloud 
+Nb habitants 29660 
+Coord 1 48.840000 
+Coord 2 2.190000 
+
+----------------------------
+Nom 
+Laon 
+Nb habitants 29497 
+Coord 1 49.580002 
+Coord 2 3.630000 
+
+----------------------------
+Nom 
+Meyzieu 
+Nb habitants 29431 
+Coord 1 45.779999 
+Coord 2 4.970000 
+
+----------------------------
+Nom 
+Vierzon 
+Nb habitants 29284 
+Coord 1 47.220001 
+Coord 2 2.060000 
+
+----------------------------
+Nom 
+Sens 
+Nb habitants 29214 
+Coord 1 48.200001 
+Coord 2 3.270000 
+
+----------------------------
+Nom 
+Villemomble 
+Nb habitants 29120 
+Coord 1 48.889999 
+Coord 2 2.500000 
+
+----------------------------
+Nom 
+Bergerac 
+Nb habitants 28982 
+Coord 1 44.860001 
+Coord 2 0.480000 
+
+----------------------------
+Nom 
+Illkirch-Graffenstaden 
+Nb habitants 28972 
+Coord 1 48.529999 
+Coord 2 7.700000 
+
+----------------------------
+Nom 
+Montbeliard 
+Nb habitants 28972 
+Coord 1 47.520000 
+Coord 2 6.820000 
+
+----------------------------
+Nom 
+Bezons 
+Nb habitants 28952 
+Coord 1 48.930000 
+Coord 2 2.200000 
+
+----------------------------
+Nom 
+Aix-les-Bains 
+Nb habitants 28928 
+Coord 1 45.700001 
+Coord 2 5.900000 
+
+----------------------------
+Nom 
+Ermont 
+Nb habitants 28889 
+Coord 1 49.000000 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+La Garenne-Colombes 
+Nb habitants 28863 
+Coord 1 48.910000 
+Coord 2 2.240000 
+
+----------------------------
+Nom 
+Gonesse 
+Nb habitants 28801 
+Coord 1 48.990002 
+Coord 2 2.450000 
+
+----------------------------
+Nom 
+Lambersart 
+Nb habitants 28782 
+Coord 1 50.660000 
+Coord 2 3.030000 
+
+----------------------------
+Nom 
+Taverny 
+Nb habitants 28733 
+Coord 1 49.020000 
+Coord 2 2.190000 
+
+----------------------------
+Nom 
+Vallauris 
+Nb habitants 28722 
+Coord 1 43.580002 
+Coord 2 7.040000 
+
+----------------------------
+Nom 
+Annemasse 
+Nb habitants 28667 
+Coord 1 46.200001 
+Coord 2 6.220000 
+
+----------------------------
+Nom 
+Cavaillon 
+Nb habitants 28372 
+Coord 1 43.849998 
+Coord 2 5.030000 
+
+----------------------------
+Nom 
+Trappes 
+Nb habitants 28273 
+Coord 1 48.790001 
+Coord 2 2.000000 
+
+----------------------------
+Nom 
+Rambouillet 
+Nb habitants 28206 
+Coord 1 48.650002 
+Coord 2 1.820000 
+
+----------------------------
+Nom 
+Saint-Etienne-du-Rouvray 
+Nb habitants 28189 
+Coord 1 49.400002 
+Coord 2 1.100000 
+
+----------------------------
+Nom 
+Sannois 
+Nb habitants 28139 
+Coord 1 48.980000 
+Coord 2 2.240000 
+
+----------------------------
+Nom 
+Montigny-les-Metz 
+Nb habitants 28092 
+Coord 1 49.099998 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Cachan 
+Nb habitants 28048 
+Coord 1 48.779999 
+Coord 2 2.320000 
+
+----------------------------
+Nom 
+Villiers-le-Bel 
+Nb habitants 28038 
+Coord 1 49.009998 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+Vigneux-sur-Seine 
+Nb habitants 27903 
+Coord 1 48.700001 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Epernay 
+Nb habitants 27649 
+Coord 1 49.040001 
+Coord 2 3.950000 
+
+----------------------------
+Nom 
+Muret 
+Nb habitants 27590 
+Coord 1 43.470001 
+Coord 2 1.310000 
+
+----------------------------
+Nom 
+Blagnac 
+Nb habitants 27472 
+Coord 1 43.630001 
+Coord 2 1.390000 
+
+----------------------------
+Nom Abbeville 
+Nb habitants 27455 
+Coord 1 50.119999 
+Coord 2 1.830000 
+
+----------------------------
+Nom 
+Rillieux-la-Pape 
+Nb habitants 27415 
+Coord 1 45.820000 
+Coord 2 4.910000 
+
+----------------------------
+Nom 
+Torcy 
+Nb habitants 27325 
+Coord 1 48.830002 
+Coord 2 2.660000 
+
+----------------------------
+Nom 
+Armentieres 
+Nb habitants 27193 
+Coord 1 50.689999 
+Coord 2 2.880000 
+
+----------------------------
+Nom 
+Villeneuve-sur-Lot 
+Nb habitants 27152 
+Coord 1 44.419998 
+Coord 2 0.700000 
+
+----------------------------
+Nom 
+Vichy 
+Nb habitants 26987 
+Coord 1 46.139999 
+Coord 2 3.430000 
+
+----------------------------
+Nom 
+Herblay 
+Nb habitants 26921 
+Coord 1 49.000000 
+Coord 2 2.160000 
+
+----------------------------
+Nom 
+Bretigny-sur-Orge 
+Nb habitants 26770 
+Coord 1 48.619999 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Vanves 
+Nb habitants 26770 
+Coord 1 48.830002 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+Vernon 
+Nb habitants 26698 
+Coord 1 49.099998 
+Coord 2 1.470000 
+
+----------------------------
+Nom 
+Orvault 
+Nb habitants 26690 
+Coord 1 47.270000 
+Coord 2 -1.620000 
+
+----------------------------
+Nom 
+Villeparisis 
+Nb habitants 26595 
+Coord 1 48.950001 
+Coord 2 2.600000 
+
+----------------------------
+Nom 
+Oyonnax 
+Nb habitants 26523 
+Coord 1 46.270000 
+Coord 2 5.640000 
+
+----------------------------
+Nom 
+Acheres 
+Nb habitants 26482 
+Coord 1 48.970001 
+Coord 2 2.060000 
+
+----------------------------
+Nom 
+Cherbourg 
+Nb habitants 26364 
+Coord 1 49.639999 
+Coord 2 -1.630000 
+
+----------------------------
+Nom 
+Le Grand-Quevilly 
+Nb habitants 25974 
+Coord 1 49.410000 
+Coord 2 1.030000 
+
+----------------------------
+Nom 
+Les Ulis 
+Nb habitants 25902 
+Coord 1 48.669998 
+Coord 2 2.170000 
+
+----------------------------
+Nom 
+Ris-Orangis 
+Nb habitants 25862 
+Coord 1 48.660000 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Romainville 
+Nb habitants 25836 
+Coord 1 48.889999 
+Coord 2 2.440000 
+
+----------------------------
+Nom 
+Bourgoin-Jallieu 
+Nb habitants 25830 
+Coord 1 45.599998 
+Coord 2 5.270000 
+
+----------------------------
+Nom 
+Fontenay-aux-Roses 
+Nb habitants 25795 
+Coord 1 48.779999 
+Coord 2 2.280000 
+
+----------------------------
+Nom 
+Coudekerque-Branche 
+Nb habitants 25794 
+Coord 1 51.040001 
+Coord 2 2.400000 
+
+----------------------------
+Nom 
+Dole 
+Nb habitants 25787 
+Coord 1 47.099998 
+Coord 2 5.480000 
+
+----------------------------
+Nom 
+Lanester 
+Nb habitants 25784 
+Coord 1 47.770000 
+Coord 2 -3.350000 
+
+----------------------------
+Nom 
+Vaureal 
+Nb habitants 25659 
+Coord 1 49.029999 
+Coord 2 2.030000 
+
+----------------------------
+Nom 
+Gif-sur-Yvette 
+Nb habitants 25601 
+Coord 1 48.680000 
+Coord 2 2.130000 
+
+----------------------------
+Nom 
+Oullins 
+Nb habitants 25598 
+Coord 1 45.720001 
+Coord 2 4.800000 
+
+----------------------------
+Nom 
+Grigny 
+Nb habitants 25581 
+Coord 1 48.650002 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Libourne 
+Nb habitants 25576 
+Coord 1 44.919998 
+Coord 2 -0.250000 
+
+----------------------------
+Nom 
+Gradignan 
+Nb habitants 25493 
+Coord 1 44.759998 
+Coord 2 -0.620000 
+
+----------------------------
+Nom 
+Miramas 
+Nb habitants 25425 
+Coord 1 43.590000 
+Coord 2 4.990000 
+
+----------------------------
+Nom 
+Eaubonne 
+Nb habitants 25415 
+Coord 1 49.000000 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+Saint-Die 
+Nb habitants 25396 
+Coord 1 48.290001 
+Coord 2 6.950000 
+
+----------------------------
+Nom 
+Sucy-en-Brie 
+Nb habitants 25377 
+Coord 1 48.759998 
+Coord 2 2.520000 
+
+----------------------------
+Nom 
+Fontaine 
+Nb habitants 25376 
+Coord 1 45.180000 
+Coord 2 5.650000 
+
+----------------------------
+Nom 
+Le Bouscat 
+Nb habitants 25354 
+Coord 1 44.869999 
+Coord 2 -0.620000 
+
+----------------------------
+Nom 
+Vertou 
+Nb habitants 25275 
+Coord 1 47.169998 
+Coord 2 -1.480000 
+
+----------------------------
+Nom 
+Auch 
+Nb habitants 25261 
+Coord 1 43.650002 
+Coord 2 0.580000 
+
+----------------------------
+Nom 
+Beaune 
+Nb habitants 25162 
+Coord 1 47.029999 
+Coord 2 4.830000 
+
+----------------------------
+Nom 
+Henin-Beaumont 
+Nb habitants 25128 
+Coord 1 50.410000 
+Coord 2 2.930000 
+
+----------------------------
+Nom 
+Agde 
+Nb habitants 25072 
+Coord 1 43.330002 
+Coord 2 3.460000 
+
+----------------------------
+Nom 
+Sarreguemines 
+Nb habitants 24970 
+Coord 1 49.119999 
+Coord 2 7.060000 
+
+----------------------------
+Nom 
+Cahors 
+Nb habitants 24963 
+Coord 1 44.459999 
+Coord 2 1.440000 
+
+----------------------------
+Nom 
+Sevres 
+Nb habitants 24957 
+Coord 1 48.820000 
+Coord 2 2.210000 
+
+----------------------------
+Nom 
+Decines-Charpieu 
+Nb habitants 24889 
+Coord 1 45.770000 
+Coord 2 4.930000 
+
+----------------------------
+Nom 
+Bois-Colombes 
+Nb habitants 24881 
+Coord 1 48.919998 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+Fougeres 
+Nb habitants 24825 
+Coord 1 48.360001 
+Coord 2 -1.220000 
+
+----------------------------
+Nom 
+Fresnes 
+Nb habitants 24736 
+Coord 1 48.750000 
+Coord 2 2.320000 
+
+----------------------------
+Nom 
+Olivet 
+Nb habitants 24716 
+Coord 1 47.860001 
+Coord 2 1.900000 
+
+----------------------------
+Nom 
+Frontignan 
+Nb habitants 24630 
+Coord 1 43.459999 
+Coord 2 3.740000 
+
+----------------------------
+Nom 
+Lisieux 
+Nb habitants 24601 
+Coord 1 49.150002 
+Coord 2 0.260000 
+
+----------------------------
+Nom 
+Brunoy 
+Nb habitants 24583 
+Coord 1 48.709999 
+Coord 2 2.490000 
+
+----------------------------
+Nom 
+Le Creusot 
+Nb habitants 24525 
+Coord 1 46.810001 
+Coord 2 4.420000 
+
+----------------------------
+Nom 
+Ozoir-la-Ferriere 
+Nb habitants 24432 
+Coord 1 48.770000 
+Coord 2 2.670000 
+
+----------------------------
+Nom 
+Bruay-la-Brussiere 
+Nb habitants 24371 
+Coord 1 50.490002 
+Coord 2 2.530000 
+
+----------------------------
+Nom 
+Cormeilles-en-Parisis 
+Nb habitants 24353 
+Coord 1 48.970001 
+Coord 2 2.190000 
+
+----------------------------
+Nom 
+Hazebrouck 
+Nb habitants 24350 
+Coord 1 50.730000 
+Coord 2 2.530000 
+
+----------------------------
+Nom 
+La Madeleine 
+Nb habitants 24318 
+Coord 1 50.650002 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+La Valette-du-Var 
+Nb habitants 24318 
+Coord 1 43.139999 
+Coord 2 5.990000 
+
+----------------------------
+Nom 
+Etampes 
+Nb habitants 24158 
+Coord 1 48.439999 
+Coord 2 2.160000 
+
+----------------------------
+Nom 
+Millau 
+Nb habitants 24116 
+Coord 1 44.110001 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+Mont-Saint-Aignan 
+Nb habitants 24062 
+Coord 1 49.459999 
+Coord 2 1.080000 
+
+----------------------------
+Nom 
+Begles 
+Nb habitants 23951 
+Coord 1 44.799999 
+Coord 2 -0.540000 
+
+----------------------------
+Nom 
+Herouville-Saint-Clair 
+Nb habitants 23947 
+Coord 1 49.209999 
+Coord 2 -0.340000 
+
+----------------------------
+Nom 
+Montfermeil 
+Nb habitants 23873 
+Coord 1 48.900002 
+Coord 2 2.550000 
+
+----------------------------
+Nom 
+Allauch 
+Nb habitants 23853 
+Coord 1 43.340000 
+Coord 2 5.480000 
+
+----------------------------
+Nom 
+Montgeron 
+Nb habitants 23839 
+Coord 1 48.700001 
+Coord 2 2.440000 
+
+----------------------------
+Nom 
+Lannion 
+Nb habitants 23810 
+Coord 1 48.750000 
+Coord 2 -3.470000 
+
+----------------------------
+Nom 
+Combs-la-Ville 
+Nb habitants 23745 
+Coord 1 48.669998 
+Coord 2 2.560000 
+
+----------------------------
+Nom 
+Saint-Pol-sur-Mer 
+Nb habitants 23615 
+Coord 1 51.029999 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Voiron 
+Nb habitants 23563 
+Coord 1 45.380001 
+Coord 2 5.570000 
+
+----------------------------
+Nom 
+Maisons-Laffitte 
+Nb habitants 23562 
+Coord 1 48.950001 
+Coord 2 2.140000 
+
+----------------------------
+Nom 
+Dax 
+Nb habitants 23549 
+Coord 1 43.730000 
+Coord 2 -1.040000 
+
+----------------------------
+Nom 
+Eysines 
+Nb habitants 23523 
+Coord 1 44.880001 
+Coord 2 -0.660000 
+
+----------------------------
+Nom 
+Le Plessis-Robinson 
+Nb habitants 23521 
+Coord 1 48.779999 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Sceaux 
+Nb habitants 23394 
+Coord 1 48.779999 
+Coord 2 2.290000 
+
+----------------------------
+Nom 
+Moulins 
+Nb habitants 23365 
+Coord 1 46.570000 
+Coord 2 3.330000 
+
+----------------------------
+Nom 
+Le Puy-en-Velay 
+Nb habitants 23224 
+Coord 1 45.049999 
+Coord 2 3.880000 
+
+----------------------------
+Nom 
+Annecy-le-Vieux 
+Nb habitants 23212 
+Coord 1 45.919998 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Lormont 
+Nb habitants 23130 
+Coord 1 44.869999 
+Coord 2 -0.530000 
+
+----------------------------
+Nom 
+Deuil-la-Barre 
+Nb habitants 23039 
+Coord 1 48.970001 
+Coord 2 2.310000 
+
+----------------------------
+Nom 
+Le Mee-sur-Seine 
+Nb habitants 23005 
+Coord 1 48.529999 
+Coord 2 2.630000 
+
+----------------------------
+Nom 
+Concarneau 
+Nb habitants 22971 
+Coord 1 47.869999 
+Coord 2 -3.930000 
+
+----------------------------
+Nom 
+Gujan-Mestras 
+Nb habitants 22935 
+Coord 1 44.639999 
+Coord 2 -1.070000 
+
+----------------------------
+Nom 
+Grande-Synthe 
+Nb habitants 22885 
+Coord 1 51.009998 
+Coord 2 2.280000 
+
+----------------------------
+Nom 
+Cenon 
+Nb habitants 22881 
+Coord 1 44.849998 
+Coord 2 -0.530000 
+
+----------------------------
+Nom 
+Plaisance-du-Touch 
+Nb habitants 22876 
+Coord 1 43.570000 
+Coord 2 1.300000 
+
+----------------------------
+Nom 
+Mons-en-Baroeul 
+Nb habitants 22861 
+Coord 1 50.630001 
+Coord 2 3.110000 
+
+----------------------------
+Nom 
+Saint-Mande 
+Nb habitants 22768 
+Coord 1 48.840000 
+Coord 2 2.400000 
+
+----------------------------
+Nom 
+Loos 
+Nb habitants 22658 
+Coord 1 50.610001 
+Coord 2 3.010000 
+
+----------------------------
+Nom 
+Velizy-Villacoublay 
+Nb habitants 22656 
+Coord 1 48.790001 
+Coord 2 2.180000 
+
+----------------------------
+Nom 
+Gardanne 
+Nb habitants 22654 
+Coord 1 43.450001 
+Coord 2 5.450000 
+
+----------------------------
+Nom 
+Saint-Ouen-l'Aumone 
+Nb habitants 22633 
+Coord 1 49.049999 
+Coord 2 2.100000 
+
+----------------------------
+Nom 
+Le Petit-Quevilly 
+Nb habitants 22568 
+Coord 1 49.430000 
+Coord 2 1.030000 
+
+----------------------------
+Nom 
+Manosque 
+Nb habitants 22446 
+Coord 1 43.840000 
+Coord 2 5.770000 
+
+----------------------------
+Nom 
+Ploemeur 
+Nb habitants 22316 
+Coord 1 47.730000 
+Coord 2 -3.430000 
+
+----------------------------
+Nom 
+Roissy-en-Brie 
+Nb habitants 22284 
+Coord 1 48.799999 
+Coord 2 2.650000 
+
+----------------------------
+Nom 
+Fecamp 
+Nb habitants 22267 
+Coord 1 49.759998 
+Coord 2 0.380000 
+
+----------------------------
+Nom 
+Verdun 
+Nb habitants 22214 
+Coord 1 49.169998 
+Coord 2 5.390000 
+
+----------------------------
+Nom 
+Sainte-Foy-les-Lyon 
+Nb habitants 22203 
+Coord 1 45.740002 
+Coord 2 4.790000 
+
+----------------------------
+Nom 
+Chevilly-Larue 
+Nb habitants 22181 
+Coord 1 48.759998 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Denain 
+Nb habitants 22118 
+Coord 1 50.330002 
+Coord 2 3.390000 
+
+----------------------------
+Nom 
+Bressuire 
+Nb habitants 22057 
+Coord 1 46.849998 
+Coord 2 -0.500000 
+
+----------------------------
+Nom 
+Les Lilas 
+Nb habitants 22022 
+Coord 1 48.889999 
+Coord 2 2.400000 
+
+----------------------------
+Nom 
+Villeneuve-la-Garenne 
+Nb habitants 22015 
+Coord 1 48.930000 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Luneville 
+Nb habitants 21938 
+Coord 1 48.599998 
+Coord 2 6.490000 
+
+----------------------------
+Nom 
+Lagny-sur-Marne 
+Nb habitants 21898 
+Coord 1 48.880001 
+Coord 2 2.700000 
+
+----------------------------
+Nom 
+Pertuis 
+Nb habitants 21815 
+Coord 1 43.700001 
+Coord 2 5.490000 
+
+----------------------------
+Nom 
+Fontainebleau 
+Nb habitants 21803 
+Coord 1 48.419998 
+Coord 2 2.700000 
+
+----------------------------
+Nom 
+Mougins 
+Nb habitants 21796 
+Coord 1 43.610001 
+Coord 2 6.980000 
+
+----------------------------
+Nom 
+Croix 
+Nb habitants 21795 
+Coord 1 50.669998 
+Coord 2 3.140000 
+
+----------------------------
+Nom 
+Saint-Genis-Laval 
+Nb habitants 21795 
+Coord 1 45.689999 
+Coord 2 4.800000 
+
+----------------------------
+Nom 
+Montmorency 
+Nb habitants 21775 
+Coord 1 48.980000 
+Coord 2 2.310000 
+
+----------------------------
+Nom 
+Saint-Lo 
+Nb habitants 21670 
+Coord 1 49.130001 
+Coord 2 -1.110000 
+
+----------------------------
+Nom 
+La Celle-Saint-Cloud 
+Nb habitants 21660 
+Coord 1 48.849998 
+Coord 2 2.150000 
+
+----------------------------
+Nom 
+Limay 
+Nb habitants 21628 
+Coord 1 49.000000 
+Coord 2 1.740000 
+
+----------------------------
+Nom 
+Longjumeau 
+Nb habitants 21621 
+Coord 1 48.709999 
+Coord 2 2.290000 
+
+----------------------------
+Nom 
+Cognac 
+Nb habitants 21570 
+Coord 1 45.689999 
+Coord 2 -0.330000 
+
+----------------------------
+Nom 
+Chamalieres 
+Nb habitants 21565 
+Coord 1 45.779999 
+Coord 2 3.060000 
+
+----------------------------
+Nom 
+Dammarie-les-Lys 
+Nb habitants 21559 
+Coord 1 48.509998 
+Coord 2 2.640000 
+
+----------------------------
+Nom 
+Saint-Michel-sur-Orge 
+Nb habitants 21373 
+Coord 1 48.639999 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Bonneuil 
+Nb habitants 21351 
+Coord 1 48.770000 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Mauguio 
+Nb habitants 21335 
+Coord 1 43.619999 
+Coord 2 4.010000 
+
+----------------------------
+Nom 
+Fleury-les-Aubrais 
+Nb habitants 21334 
+Coord 1 47.930000 
+Coord 2 1.930000 
+
+----------------------------
+Nom 
+Lons-le-Saunier 
+Nb habitants 21333 
+Coord 1 46.680000 
+Coord 2 5.530000 
+
+----------------------------
+Nom 
+Challans 
+Nb habitants 21314 
+Coord 1 46.849998 
+Coord 2 -1.880000 
+
+----------------------------
+Nom 
+Saint-Jean-de-Braye 
+Nb habitants 21309 
+Coord 1 47.910000 
+Coord 2 1.950000 
+
+----------------------------
+Nom 
+Meylan 
+Nb habitants 21292 
+Coord 1 45.220001 
+Coord 2 5.750000 
+
+----------------------------
+Nom 
+Villefontaine 
+Nb habitants 21265 
+Coord 1 45.610001 
+Coord 2 5.150000 
+
+----------------------------
+Nom 
+Cluses 
+Nb habitants 21235 
+Coord 1 46.060001 
+Coord 2 6.600000 
+
+----------------------------
+Nom 
+Pontarlier 
+Nb habitants 21224 
+Coord 1 46.910000 
+Coord 2 6.350000 
+
+----------------------------
+Nom 
+Saint-Louis 
+Nb habitants 21202 
+Coord 1 47.599998 
+Coord 2 7.550000 
+
+----------------------------
+Nom 
+Sanary-sur-Mer 
+Nb habitants 21194 
+Coord 1 43.130001 
+Coord 2 5.800000 
+
+----------------------------
+Nom 
+La Crau 
+Nb habitants 21170 
+Coord 1 43.150002 
+Coord 2 6.070000 
+
+----------------------------
+Nom 
+Halluin 
+Nb habitants 21142 
+Coord 1 50.790001 
+Coord 2 3.130000 
+
+----------------------------
+Nom 
+Castelnau-le-Lez 
+Nb habitants 21132 
+Coord 1 43.639999 
+Coord 2 3.890000 
+
+----------------------------
+Nom 
+Les Pavillons-sous-Bois 
+Nb habitants 21114 
+Coord 1 48.910000 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Couëron 
+Nb habitants 21092 
+Coord 1 47.220001 
+Coord 2 -1.730000 
+
+----------------------------
+Nom 
+Senlis 
+Nb habitants 21077 
+Coord 1 49.209999 
+Coord 2 2.590000 
+
+----------------------------
+Nom 
+Maurepas 
+Nb habitants 21035 
+Coord 1 48.759998 
+Coord 2 1.900000 
+
+----------------------------
+Nom 
+Cran-Gevrier 
+Nb habitants 20960 
+Coord 1 45.900002 
+Coord 2 6.100000 
+
+----------------------------
+Nom 
+Vesoul 
+Nb habitants 20826 
+Coord 1 47.630001 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Romorantin-Lanthenay 
+Nb habitants 20818 
+Coord 1 47.360001 
+Coord 2 1.740000 
+
+----------------------------
+Nom 
+Riom 
+Nb habitants 20763 
+Coord 1 45.900002 
+Coord 2 3.110000 
+
+----------------------------
+Nom 
+Mantes-la-Ville 
+Nb habitants 20762 
+Coord 1 48.959999 
+Coord 2 1.700000 
+
+----------------------------
+Nom 
+Limeil-Brevannes 
+Nb habitants 20760 
+Coord 1 48.740002 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Cesson-Sevigne 
+Nb habitants 20749 
+Coord 1 48.119999 
+Coord 2 -1.620000 
+
+----------------------------
+Nom 
+Le Plessis-Trevise 
+Nb habitants 20719 
+Coord 1 48.810001 
+Coord 2 2.570000 
+
+----------------------------
+Nom 
+Lattes 
+Nb habitants 20704 
+Coord 1 43.570000 
+Coord 2 3.900000 
+
+----------------------------
+Nom 
+Orly 
+Nb habitants 20683 
+Coord 1 48.740002 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Carquefou 
+Nb habitants 20651 
+Coord 1 47.299999 
+Coord 2 -1.500000 
+
+----------------------------
+Nom 
+Sedan 
+Nb habitants 20608 
+Coord 1 49.700001 
+Coord 2 4.920000 
+
+----------------------------
+Nom 
+Morsang-sur-Orge 
+Nb habitants 20605 
+Coord 1 48.669998 
+Coord 2 2.340000 
+
+----------------------------
+Nom 
+Mandelieu-la-Napoule 
+Nb habitants 20594 
+Coord 1 43.560001 
+Coord 2 6.930000 
+
+----------------------------
+Nom 
+Les Pennes-Mirabeau 
+Nb habitants 20577 
+Coord 1 43.410000 
+Coord 2 5.310000 
+
+----------------------------
+Nom 
+L'Isle-sur-la-Sorgue 
+Nb habitants 20528 
+Coord 1 43.939999 
+Coord 2 5.040000 
+
+----------------------------
+Nom 
+Bourg-les-Valence 
+Nb habitants 20461 
+Coord 1 44.959999 
+Coord 2 4.880000 
+
+----------------------------
+Nom 
+Jouy-le-Moutier 
+Nb habitants 20383 
+Coord 1 49.020000 
+Coord 2 2.030000 
+
+----------------------------
+Nom 
+Saint-Gratien 
+Nb habitants 20378 
+Coord 1 48.970001 
+Coord 2 2.270000 
+
+----------------------------
+Nom 
+La Fleche 
+Nb habitants 20349 
+Coord 1 47.700001 
+Coord 2 -0.080000 
+
+----------------------------
+Nom 
+Mitry-Mory 
+Nb habitants 20337 
+Coord 1 48.980000 
+Coord 2 2.610000 
+
+----------------------------
+Nom 
+Digne-les-Bains 
+Nb habitants 20326 
+Coord 1 44.099998 
+Coord 2 6.230000 
+
+----------------------------
+Nom 
+La Chapelle-sur-Erdre 
+Nb habitants 20320 
+Coord 1 47.310001 
+Coord 2 -1.560000 
+
+----------------------------
+Nom 
+Cournon-d'Auvergne 
+Nb habitants 20225 
+Coord 1 45.740002 
+Coord 2 3.190000 
+
+----------------------------
+Nom 
+Seynod 
+Nb habitants 20217 
+Coord 1 45.880001 
+Coord 2 6.070000 
+
+----------------------------
+Nom 
+Bagnols-sur-Ceze 
+Nb habitants 20209 
+Coord 1 44.169998 
+Coord 2 4.620000 
+
+----------------------------
+Nom 
+Vence 
+Nb habitants 20197 
+Coord 1 43.730000 
+Coord 2 7.090000 
+
+----------------------------
+Nom 
+Selestat 
+Nb habitants 20113 
+Coord 1 48.259998 
+Coord 2 7.440000 
+
+----------------------------
+Nom 
+Chilly-Mazarin 
+Nb habitants 20063 
+Coord 1 48.709999 
+Coord 2 2.310000 
+
+----------------------------
+Nom 
+Fos-sur-Mer 
+Nb habitants 20051 
+Coord 1 43.439999 
+Coord 2 4.950000 
+
+----------------------------
+Nom 
+Royan 
+Nb habitants 20021 
+Coord 1 45.630001 
+Coord 2 -0.990000 
+
+----------------------------
+Nom 
+Ecully 
+Nb habitants 19955 
+Coord 1 45.770000 
+Coord 2 4.750000 
+
+----------------------------
+Nom 
+Vendome 
+Nb habitants 19940 
+Coord 1 47.790001 
+Coord 2 1.070000 
+
+----------------------------
+Nom 
+Albertville 
+Nb habitants 19860 
+Coord 1 45.680000 
+Coord 2 6.380000 
+
+----------------------------
+Nom 
+Wasquehal 
+Nb habitants 19826 
+Coord 1 50.660000 
+Coord 2 3.140000 
+
+----------------------------
+Nom 
+Saint-Omer 
+Nb habitants 19777 
+Coord 1 50.759998 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Forbach 
+Nb habitants 19770 
+Coord 1 49.189999 
+Coord 2 6.900000 
+
+----------------------------
+Nom 
+Garches 
+Nb habitants 19761 
+Coord 1 48.840000 
+Coord 2 2.170000 
+
+----------------------------
+Nom 
+Nogent-sur-Oise 
+Nb habitants 19757 
+Coord 1 49.279999 
+Coord 2 2.460000 
+
+----------------------------
+Nom 
+Marmande 
+Nb habitants 19718 
+Coord 1 44.500000 
+Coord 2 0.150000 
+
+----------------------------
+Nom 
+Hem 
+Nb habitants 19572 
+Coord 1 50.660000 
+Coord 2 3.190000 
+
+----------------------------
+Nom 
+Chaville 
+Nb habitants 19552 
+Coord 1 48.810001 
+Coord 2 2.170000 
+
+----------------------------
+Nom 
+Bourg-la-Reine 
+Nb habitants 19482 
+Coord 1 48.779999 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Orsay 
+Nb habitants 19414 
+Coord 1 48.700001 
+Coord 2 2.180000 
+
+----------------------------
+Nom 
+Neuilly-Plaisance 
+Nb habitants 19390 
+Coord 1 48.860001 
+Coord 2 2.510000 
+
+----------------------------
+Nom 
+Montceau-les-Mines 
+Nb habitants 19336 
+Coord 1 46.680000 
+Coord 2 4.360000 
+
+----------------------------
+Nom 
+La Baule-Escoublac 
+Nb habitants 19285 
+Coord 1 47.290001 
+Coord 2 -2.400000 
+
+----------------------------
+Nom 
+Louviers 
+Nb habitants 19276 
+Coord 1 49.220001 
+Coord 2 1.170000 
+
+----------------------------
+Nom 
+Joinville-le-Pont 
+Nb habitants 19164 
+Coord 1 48.820000 
+Coord 2 2.460000 
+
+----------------------------
+Nom 
+Le Pre-Saint-Gervais 
+Nb habitants 19152 
+Coord 1 48.889999 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Carvin 
+Nb habitants 19128 
+Coord 1 50.490002 
+Coord 2 2.950000 
+
+----------------------------
+Nom 
+Bar-le-Duc 
+Nb habitants 19007 
+Coord 1 48.779999 
+Coord 2 5.170000 
+
+----------------------------
+Nom 
+Verneuil-sur-Seine 
+Nb habitants 19005 
+Coord 1 48.990002 
+Coord 2 1.970000 
+
+----------------------------
+Nom 
+Equeurdreville-Hainneville 
+Nb habitants 18971 
+Coord 1 49.660000 
+Coord 2 -1.650000 
+
+----------------------------
+Nom 
+Guerande 
+Nb habitants 18962 
+Coord 1 47.330002 
+Coord 2 -2.430000 
+
+----------------------------
+Nom 
+Saint-Avold 
+Nb habitants 18953 
+Coord 1 49.110001 
+Coord 2 6.710000 
+
+----------------------------
+Nom 
+Chennevieres-sur-Marne 
+Nb habitants 18943 
+Coord 1 48.799999 
+Coord 2 2.530000 
+
+----------------------------
+Nom 
+Pamier 
+Nb habitants 18803 
+Coord 1 43.119999 
+Coord 2 1.620000 
+
+----------------------------
+Nom 
+Osny 
+Nb habitants 18788 
+Coord 1 49.070000 
+Coord 2 2.060000 
+
+----------------------------
+Nom 
+Argentan 
+Nb habitants 18783 
+Coord 1 48.750000 
+Coord 2 -0.030000 
+
+----------------------------
+Nom 
+Vitre 
+Nb habitants 18756 
+Coord 1 48.130001 
+Coord 2 -1.230000 
+
+----------------------------
+Nom 
+Sorgues 
+Nb habitants 18740 
+Coord 1 44.049999 
+Coord 2 4.870000 
+
+----------------------------
+Nom 
+Montigny-les-Cormeilles 
+Nb habitants 18685 
+Coord 1 48.990002 
+Coord 2 2.200000 
+
+----------------------------
+Nom 
+Pontivy 
+Nb habitants 18622 
+Coord 1 48.060001 
+Coord 2 -2.980000 
+
+----------------------------
+Nom 
+Cestas 
+Nb habitants 18589 
+Coord 1 44.750000 
+Coord 2 -0.690000 
+
+----------------------------
+Nom 
+Les Clayes-sous-Bois 
+Nb habitants 18570 
+Coord 1 48.830002 
+Coord 2 1.980000 
+
+----------------------------
+Nom 
+Annonay 
+Nb habitants 18521 
+Coord 1 45.240002 
+Coord 2 4.660000 
+
+----------------------------
+Nom 
+Balma 
+Nb habitants 18507 
+Coord 1 43.610001 
+Coord 2 1.500000 
+
+----------------------------
+Nom 
+Ronchin 
+Nb habitants 18500 
+Coord 1 50.599998 
+Coord 2 3.090000 
+
+----------------------------
+Nom 
+Domont 
+Nb habitants 18491 
+Coord 1 49.029999 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Avion 
+Nb habitants 18484 
+Coord 1 50.400002 
+Coord 2 2.830000 
+
+----------------------------
+Nom 
+Montargis 
+Nb habitants 18453 
+Coord 1 48.009998 
+Coord 2 2.730000 
+
+----------------------------
+Nom 
+Tourlaville 
+Nb habitants 18438 
+Coord 1 49.630001 
+Coord 2 -1.570000 
+
+----------------------------
+Nom 
+Sallanches 
+Nb habitants 18432 
+Coord 1 45.939999 
+Coord 2 6.620000 
+
+----------------------------
+Nom 
+Autun 
+Nb habitants 18381 
+Coord 1 46.959999 
+Coord 2 4.290000 
+
+----------------------------
+Nom 
+Moissy-Cramayel 
+Nb habitants 18313 
+Coord 1 48.619999 
+Coord 2 2.590000 
+
+----------------------------
+Nom 
+Blanquefort 
+Nb habitants 18246 
+Coord 1 44.939999 
+Coord 2 -0.630000 
+
+----------------------------
+Nom 
+Morlaix 
+Nb habitants 18242 
+Coord 1 48.580002 
+Coord 2 -3.840000 
+
+----------------------------
+Nom 
+Saint-Cyr-sur-Loire 
+Nb habitants 18232 
+Coord 1 47.400002 
+Coord 2 0.650000 
+
+----------------------------
+Nom 
+Saint-Amand-les-Eaux 
+Nb habitants 18202 
+Coord 1 50.450001 
+Coord 2 3.430000 
+
+----------------------------
+Nom 
+Soisy-sous-Montmorency 
+Nb habitants 18177 
+Coord 1 48.980000 
+Coord 2 2.290000 
+
+----------------------------
+Nom 
+Brie-Comte-Robert 
+Nb habitants 18149 
+Coord 1 48.700001 
+Coord 2 2.600000 
+
+----------------------------
+Nom 
+Sin-le-Noble 
+Nb habitants 18142 
+Coord 1 50.369999 
+Coord 2 3.110000 
+
+----------------------------
+Nom 
+Marly-le-Roi 
+Nb habitants 18082 
+Coord 1 48.869999 
+Coord 2 2.070000 
+
+----------------------------
+Nom 
+Saint-Jean-de-la-Ruelle 
+Nb habitants 18031 
+Coord 1 47.910000 
+Coord 2 1.890000 
+
+----------------------------
+Nom 
+Montereau-Fault-Yonne 
+Nb habitants 17991 
+Coord 1 48.389999 
+Coord 2 2.950000 
+
+----------------------------
+Nom 
+Saint-Maximin-la-Sainte-Baume 
+Nb habitants 17988 
+Coord 1 43.470001 
+Coord 2 5.850000 
+
+----------------------------
+Nom 
+Toul 
+Nb habitants 17862 
+Coord 1 48.680000 
+Coord 2 5.880000 
+
+----------------------------
+Nom 
+Givors 
+Nb habitants 17825 
+Coord 1 45.599998 
+Coord 2 4.770000 
+
+----------------------------
+Nom 
+Bouguenais 
+Nb habitants 17819 
+Coord 1 47.180000 
+Coord 2 -1.620000 
+
+----------------------------
+Nom 
+Bischheim 
+Nb habitants 17717 
+Coord 1 48.610001 
+Coord 2 7.750000 
+
+----------------------------
+Nom 
+Saint-Avertin 
+Nb habitants 17629 
+Coord 1 47.360001 
+Coord 2 0.730000 
+
+----------------------------
+Nom 
+Verrieres-le-Buisson 
+Nb habitants 17604 
+Coord 1 48.750000 
+Coord 2 2.260000 
+
+----------------------------
+Nom 
+Vitry-le-Francois 
+Nb habitants 17599 
+Coord 1 48.730000 
+Coord 2 4.590000 
+
+----------------------------
+Nom 
+Carrieres-sous-Poissy 
+Nb habitants 17586 
+Coord 1 48.950001 
+Coord 2 2.030000 
+
+----------------------------
+Nom 
+Tassin-la-Demi-Lune 
+Nb habitants 17565 
+Coord 1 45.750000 
+Coord 2 4.810000 
+
+----------------------------
+Nom 
+Bry-sur-Marne 
+Nb habitants 17557 
+Coord 1 48.840000 
+Coord 2 2.500000 
+
+----------------------------
+Nom 
+Luce 
+Nb habitants 17547 
+Coord 1 48.439999 
+Coord 2 1.450000 
+
+----------------------------
+Nom 
+Lingolsheim 
+Nb habitants 17453 
+Coord 1 48.560001 
+Coord 2 7.680000 
+
+----------------------------
+Nom 
+Le Vesinet 
+Nb habitants 17450 
+Coord 1 48.900002 
+Coord 2 2.130000 
+
+----------------------------
+Nom 
+Saran 
+Nb habitants 17398 
+Coord 1 47.950001 
+Coord 2 1.880000 
+
+----------------------------
+Nom 
+Tulle 
+Nb habitants 17368 
+Coord 1 45.259998 
+Coord 2 1.760000 
+
+----------------------------
+Nom 
+Fontenay-le-Comte 
+Nb habitants 17360 
+Coord 1 46.470001 
+Coord 2 -0.800000 
+
+----------------------------
+Nom 
+Val-de-Reuil 
+Nb habitants 17331 
+Coord 1 49.279999 
+Coord 2 1.200000 
+
+----------------------------
+Nom 
+Elbeuf 
+Nb habitants 17329 
+Coord 1 49.290001 
+Coord 2 1.010000 
+
+----------------------------
+Nom 
+Chateau-d'Olonne 
+Nb habitants 17299 
+Coord 1 46.509998 
+Coord 2 -1.740000 
+
+----------------------------
+Nom 
+Cugnaux 
+Nb habitants 17225 
+Coord 1 43.540001 
+Coord 2 1.350000 
+
+----------------------------
+Nom 
+Flers 
+Nb habitants 17191 
+Coord 1 48.759998 
+Coord 2 -0.570000 
+
+----------------------------
+Nom 
+Villeneuve-le-Roi 
+Nb habitants 17167 
+Coord 1 48.740002 
+Coord 2 2.400000 
+
+----------------------------
+Nom 
+Landerneau 
+Nb habitants 17114 
+Coord 1 48.459999 
+Coord 2 -4.260000 
+
+----------------------------
+Nom 
+Viroflay 
+Nb habitants 17077 
+Coord 1 48.810001 
+Coord 2 2.190000 
+
+----------------------------
+Nom 
+Saint-Leu-la-Foret 
+Nb habitants 17067 
+Coord 1 49.009998 
+Coord 2 2.240000 
+
+----------------------------
+Nom 
+Douarnenez 
+Nb habitants 17050 
+Coord 1 48.099998 
+Coord 2 -4.350000 
+
+----------------------------
+Nom 
+Montbrison 
+Nb habitants 17050 
+Coord 1 45.610001 
+Coord 2 4.050000 
+
+----------------------------
+Nom 
+Saint-Cyr-l'Ecole 
+Nb habitants 17041 
+Coord 1 48.810001 
+Coord 2 2.070000 
+
+----------------------------
+Nom 
+Issoire 
+Nb habitants 17008 
+Coord 1 45.549999 
+Coord 2 3.240000 
+
+----------------------------
+Nom 
+Les Sables-d'Olonne 
+Nb habitants 16983 
+Coord 1 46.509998 
+Coord 2 -1.780000 
+
+----------------------------
+Nom 
+Lognes 
+Nb habitants 16888 
+Coord 1 48.840000 
+Coord 2 2.610000 
+
+----------------------------
+Nom 
+Les Herbiers 
+Nb habitants 16858 
+Coord 1 46.880001 
+Coord 2 -1.020000 
+
+----------------------------
+Nom 
+Arcueil 
+Nb habitants 16817 
+Coord 1 48.799999 
+Coord 2 2.320000 
+
+----------------------------
+Nom 
+Le Pecq 
+Nb habitants 16797 
+Coord 1 48.900002 
+Coord 2 2.110000 
+
+----------------------------
+Nom 
+Montesson 
+Nb habitants 16785 
+Coord 1 48.910000 
+Coord 2 2.140000 
+
+----------------------------
+Nom 
+Brignoles 
+Nb habitants 16769 
+Coord 1 43.419998 
+Coord 2 6.060000 
+
+----------------------------
+Nom 
+Gueret 
+Nb habitants 16689 
+Coord 1 46.169998 
+Coord 2 1.870000 
+
+----------------------------
+Nom 
+Mayenne 
+Nb habitants 16685 
+Coord 1 48.310001 
+Coord 2 -0.620000 
+
+----------------------------
+Nom 
+Laxou 
+Nb habitants 16654 
+Coord 1 48.689999 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Crepy-en-Valois 
+Nb habitants 16634 
+Coord 1 49.240002 
+Coord 2 2.890000 
+
+----------------------------
+Nom 
+Chateaudun 
+Nb habitants 16632 
+Coord 1 48.080002 
+Coord 2 1.340000 
+
+----------------------------
+Nom 
+Le Pontet 
+Nb habitants 16561 
+Coord 1 43.959999 
+Coord 2 4.840000 
+
+----------------------------
+Nom 
+Boissy-Saint-Leger 
+Nb habitants 16553 
+Coord 1 48.750000 
+Coord 2 2.510000 
+
+----------------------------
+Nom 
+Tarascon 
+Nb habitants 16546 
+Coord 1 43.820000 
+Coord 2 4.650000 
+
+----------------------------
+Nom 
+Firminy 
+Nb habitants 16541 
+Coord 1 45.400002 
+Coord 2 4.280000 
+
+----------------------------
+Nom 
+Mennecy 
+Nb habitants 16504 
+Coord 1 48.560001 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Coulommiers 
+Nb habitants 16485 
+Coord 1 48.820000 
+Coord 2 3.080000 
+
+----------------------------
+Nom 
+Floirac 
+Nb habitants 16480 
+Coord 1 44.840000 
+Coord 2 -0.540000 
+
+----------------------------
+Nom 
+Montivilliers 
+Nb habitants 16475 
+Coord 1 49.549999 
+Coord 2 0.190000 
+
+----------------------------
+Nom 
+Montmagny 
+Nb habitants 16374 
+Coord 1 48.959999 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Yutz 
+Nb habitants 16328 
+Coord 1 49.349998 
+Coord 2 6.200000 
+
+----------------------------
+Nom 
+Bayeux 
+Nb habitants 16319 
+Coord 1 49.279999 
+Coord 2 -0.700000 
+
+----------------------------
+Nom 
+Faches-Thumesnil 
+Nb habitants 16302 
+Coord 1 50.580002 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+Saint-Fons 
+Nb habitants 16278 
+Coord 1 45.709999 
+Coord 2 4.850000 
+
+----------------------------
+Nom 
+Berck 
+Nb habitants 16245 
+Coord 1 50.410000 
+Coord 2 1.570000 
+
+----------------------------
+Nom 
+Haubourdin 
+Nb habitants 16214 
+Coord 1 50.610001 
+Coord 2 2.980000 
+
+----------------------------
+Nom 
+Fache-Thumesnil 
+Nb habitants 16207 
+Coord 1 50.590000 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+Chateau-Thierry 
+Nb habitants 16172 
+Coord 1 49.049999 
+Coord 2 3.400000 
+
+----------------------------
+Nom 
+Mende 
+Nb habitants 16171 
+Coord 1 44.520000 
+Coord 2 3.480000 
+
+----------------------------
+Nom 
+Wittenheim 
+Nb habitants 16153 
+Coord 1 47.820000 
+Coord 2 7.320000 
+
+----------------------------
+Nom 
+Sable-sur-Sarthe 
+Nb habitants 16044 
+Coord 1 47.840000 
+Coord 2 -0.340000 
+
+----------------------------
+Nom 
+Saint-Egreve 
+Nb habitants 16020 
+Coord 1 45.230000 
+Coord 2 5.680000 
+
+----------------------------
+Nom 
+Lons 
+Nb habitants 15975 
+Coord 1 43.330002 
+Coord 2 -0.410000 
+
+----------------------------
+Nom 
+Gentilly 
+Nb habitants 15969 
+Coord 1 48.820000 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Saint-Maurice 
+Nb habitants 15908 
+Coord 1 48.830002 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Billere 
+Nb habitants 15888 
+Coord 1 43.310001 
+Coord 2 -0.410000 
+
+----------------------------
+Nom 
+Gien 
+Nb habitants 15879 
+Coord 1 47.689999 
+Coord 2 2.630000 
+
+----------------------------
+Nom 
+Courcouronnes 
+Nb habitants 15825 
+Coord 1 48.619999 
+Coord 2 2.420000 
+
+----------------------------
+Nom 
+Outreau 
+Nb habitants 15803 
+Coord 1 50.709999 
+Coord 2 1.580000 
+
+----------------------------
+Nom 
+Lourdes 
+Nb habitants 15802 
+Coord 1 43.099998 
+Coord 2 -0.050000 
+
+----------------------------
+Nom 
+Avon 
+Nb habitants 15793 
+Coord 1 48.410000 
+Coord 2 2.720000 
+
+----------------------------
+Nom 
+Villers-les-Nancy 
+Nb habitants 15738 
+Coord 1 48.669998 
+Coord 2 6.140000 
+
+----------------------------
+Nom 
+Pont-a-Mousson 
+Nb habitants 15717 
+Coord 1 48.910000 
+Coord 2 6.050000 
+
+----------------------------
+Nom 
+Saint-Cyr-sur-Mer 
+Nb habitants 15689 
+Coord 1 43.180000 
+Coord 2 5.720000 
+
+----------------------------
+Nom 
+Tergnier 
+Nb habitants 15687 
+Coord 1 49.660000 
+Coord 2 3.270000 
+
+----------------------------
+Nom 
+Octeville 
+Nb habitants 15683 
+Coord 1 49.610001 
+Coord 2 -1.650000 
+
+----------------------------
+Nom 
+Bruz 
+Nb habitants 15678 
+Coord 1 48.029999 
+Coord 2 -1.750000 
+
+----------------------------
+Nom 
+Villeneuve-Loubet 
+Nb habitants 15641 
+Coord 1 43.660000 
+Coord 2 7.100000 
+
+----------------------------
+Nom 
+Hendaye 
+Nb habitants 15605 
+Coord 1 43.369999 
+Coord 2 -1.770000 
+
+----------------------------
+Nom 
+Ollioules 
+Nb habitants 15534 
+Coord 1 43.139999 
+Coord 2 5.850000 
+
+----------------------------
+Nom 
+Canteleu 
+Nb habitants 15521 
+Coord 1 49.450001 
+Coord 2 1.030000 
+
+----------------------------
+Nom 
+Hayange 
+Nb habitants 15495 
+Coord 1 49.330002 
+Coord 2 6.060000 
+
+----------------------------
+Nom 
+Audincourt 
+Nb habitants 15405 
+Coord 1 47.490002 
+Coord 2 6.830000 
+
+----------------------------
+Nom 
+Noyon 
+Nb habitants 15398 
+Coord 1 49.580002 
+Coord 2 3.000000 
+
+----------------------------
+Nom 
+La Motte-Servolex 
+Nb habitants 15368 
+Coord 1 45.599998 
+Coord 2 5.880000 
+
+----------------------------
+Nom 
+Noisiel 
+Nb habitants 15361 
+Coord 1 48.849998 
+Coord 2 2.630000 
+
+----------------------------
+Nom 
+Illzach 
+Nb habitants 15352 
+Coord 1 47.790001 
+Coord 2 7.330000 
+
+----------------------------
+Nom 
+Chateaurenard 
+Nb habitants 15313 
+Coord 1 43.880001 
+Coord 2 4.840000 
+
+----------------------------
+Nom 
+Bailleul 
+Nb habitants 15277 
+Coord 1 50.740002 
+Coord 2 2.740000 
+
+----------------------------
+Nom 
+Eragny 
+Nb habitants 15274 
+Coord 1 49.020000 
+Coord 2 2.100000 
+
+----------------------------
+Nom 
+Port-de-Bouc 
+Nb habitants 15273 
+Coord 1 43.419998 
+Coord 2 4.970000 
+
+----------------------------
+Nom 
+Sainte-Maxime 
+Nb habitants 15228 
+Coord 1 43.320000 
+Coord 2 6.620000 
+
+----------------------------
+Nom 
+Beaucaire 
+Nb habitants 15208 
+Coord 1 43.820000 
+Coord 2 4.640000 
+
+----------------------------
+Nom 
+Sarrebourg 
+Nb habitants 15204 
+Coord 1 48.740002 
+Coord 2 7.050000 
+
+----------------------------
+Nom 
+Bollene 
+Nb habitants 15172 
+Coord 1 44.290001 
+Coord 2 4.740000 
+
+----------------------------
+Nom 
+Chenove 
+Nb habitants 15164 
+Coord 1 47.290001 
+Coord 2 5.000000 
+
+----------------------------
+Nom 
+Saint-Just-Saint-Rambert 
+Nb habitants 15161 
+Coord 1 45.500000 
+Coord 2 4.250000 
+
+----------------------------
+Nom 
+Vire 
+Nb habitants 15140 
+Coord 1 48.860001 
+Coord 2 -0.890000 
+
+----------------------------
+Nom 
+Saint-Jean-de-Luz 
+Nb habitants 15138 
+Coord 1 43.400002 
+Coord 2 -1.660000 
+
+----------------------------
+Nom 
+Bois-Guillaume 
+Nb habitants 15053 
+Coord 1 49.470001 
+Coord 2 1.120000 
+
+----------------------------
+Nom 
+Cusset 
+Nb habitants 15020 
+Coord 1 46.139999 
+Coord 2 3.450000 
+
+----------------------------
+Nom 
+Plougastel-Daoulas 
+Nb habitants 15018 
+Coord 1 48.380001 
+Coord 2 -4.380000 
+
+----------------------------
+Nom 
+Nemours 
+Nb habitants 14981 
+Coord 1 48.270000 
+Coord 2 2.680000 
+
+----------------------------
+Nom 
+Hautmont 
+Nb habitants 14969 
+Coord 1 50.259998 
+Coord 2 3.910000 
+
+----------------------------
+Nom 
+La Chapelle-Saint-Luc 
+Nb habitants 14904 
+Coord 1 48.330002 
+Coord 2 4.050000 
+
+----------------------------
+Nom 
+Granville 
+Nb habitants 14900 
+Coord 1 48.849998 
+Coord 2 -1.590000 
+
+----------------------------
+Nom 
+Hennebont 
+Nb habitants 14880 
+Coord 1 47.820000 
+Coord 2 -3.260000 
+
+----------------------------
+Nom 
+Wattignies 
+Nb habitants 14873 
+Coord 1 50.590000 
+Coord 2 3.040000 
+
+----------------------------
+Nom 
+Plerin 
+Nb habitants 14863 
+Coord 1 48.549999 
+Coord 2 -2.770000 
+
+----------------------------
+Nom 
+Villefranche-de-Rouergue 
+Nb habitants 14833 
+Coord 1 44.360001 
+Coord 2 2.020000 
+
+----------------------------
+Nom 
+Pont-Sainte-Maxence 
+Nb habitants 14832 
+Coord 1 49.310001 
+Coord 2 2.600000 
+
+----------------------------
+Nom 
+Guipavas 
+Nb habitants 14776 
+Coord 1 48.430000 
+Coord 2 -4.400000 
+
+----------------------------
+Nom 
+Sainte-Luce-sur-Loire 
+Nb habitants 14756 
+Coord 1 47.250000 
+Coord 2 -1.500000 
+
+----------------------------
+Nom 
+Berre-l'Etang 
+Nb habitants 14733 
+Coord 1 43.490002 
+Coord 2 5.170000 
+
+----------------------------
+Nom 
+Voisins-le-Bretonneux 
+Nb habitants 14708 
+Coord 1 48.759998 
+Coord 2 2.040000 
+
+----------------------------
+Nom 
+Saint-Brice-sous-Foret 
+Nb habitants 14690 
+Coord 1 49.000000 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Issoudun 
+Nb habitants 14644 
+Coord 1 46.950001 
+Coord 2 2.000000 
+
+----------------------------
+Nom 
+Anzin 
+Nb habitants 14600 
+Coord 1 50.369999 
+Coord 2 3.490000 
+
+----------------------------
+Nom 
+Saint-Pierre-des-Corps 
+Nb habitants 14558 
+Coord 1 47.389999 
+Coord 2 0.720000 
+
+----------------------------
+Nom 
+Berre-l'Etang 
+Nb habitants 14543 
+Coord 1 43.470001 
+Coord 2 5.180000 
+
+----------------------------
+Nom 
+Moissac 
+Nb habitants 14507 
+Coord 1 44.110001 
+Coord 2 1.080000 
+
+----------------------------
+Nom 
+Longwy 
+Nb habitants 14491 
+Coord 1 49.529999 
+Coord 2 5.760000 
+
+----------------------------
+Nom 
+Romilly-sur-Seine 
+Nb habitants 14476 
+Coord 1 48.520000 
+Coord 2 3.720000 
+
+----------------------------
+Nom 
+Villeneuve-les-Avignon 
+Nb habitants 14464 
+Coord 1 43.980000 
+Coord 2 4.790000 
+
+----------------------------
+Nom 
+Amberieu-en-Bugey 
+Nb habitants 14458 
+Coord 1 45.970001 
+Coord 2 5.330000 
+
+----------------------------
+Nom 
+Genas 
+Nb habitants 14455 
+Coord 1 45.740002 
+Coord 2 5.000000 
+
+----------------------------
+Nom 
+Rumilly 
+Nb habitants 14407 
+Coord 1 45.869999 
+Coord 2 5.940000 
+
+----------------------------
+Nom 
+Bruges 
+Nb habitants 14391 
+Coord 1 44.889999 
+Coord 2 -0.620000 
+
+----------------------------
+Nom 
+Lys-lez-Lannoy 
+Nb habitants 14373 
+Coord 1 50.669998 
+Coord 2 3.220000 
+
+----------------------------
+Nom 
+Avrille 
+Nb habitants 14323 
+Coord 1 47.509998 
+Coord 2 -0.580000 
+
+----------------------------
+Nom 
+Freyming-Merlebach 
+Nb habitants 14310 
+Coord 1 49.150002 
+Coord 2 6.790000 
+
+----------------------------
+Nom 
+Longuenesse 
+Nb habitants 14305 
+Coord 1 50.740002 
+Coord 2 2.230000 
+
+----------------------------
+Nom 
+Rixheim 
+Nb habitants 14238 
+Coord 1 47.770000 
+Coord 2 7.400000 
+
+----------------------------
+Nom 
+Chalette-sur-Loing 
+Nb habitants 14234 
+Coord 1 48.020000 
+Coord 2 2.730000 
+
+----------------------------
+Nom 
+Creutzwald 
+Nb habitants 14207 
+Coord 1 49.200001 
+Coord 2 6.700000 
+
+----------------------------
+Nom 
+Castelsarassin 
+Nb habitants 14147 
+Coord 1 44.040001 
+Coord 2 1.100000 
+
+----------------------------
+Nom 
+Meru 
+Nb habitants 14122 
+Coord 1 49.240002 
+Coord 2 2.130000 
+
+----------------------------
+Nom 
+Triel-sur-Seine 
+Nb habitants 14106 
+Coord 1 48.990002 
+Coord 2 2.000000 
+
+----------------------------
+Nom 
+Plouzane 
+Nb habitants 14091 
+Coord 1 48.389999 
+Coord 2 -4.620000 
+
+----------------------------
+Nom 
+Valbonne 
+Nb habitants 14068 
+Coord 1 43.639999 
+Coord 2 6.990000 
+
+----------------------------
+Nom 
+Fourmies 
+Nb habitants 14061 
+Coord 1 50.020000 
+Coord 2 4.050000 
+
+----------------------------
+Nom 
+Aubenas 
+Nb habitants 13993 
+Coord 1 44.630001 
+Coord 2 4.360000 
+
+----------------------------
+Nom 
+Caudry 
+Nb habitants 13985 
+Coord 1 50.130001 
+Coord 2 3.400000 
+
+----------------------------
+Nom 
+Bouc-Bel-Air 
+Nb habitants 13974 
+Coord 1 43.450001 
+Coord 2 5.420000 
+
+----------------------------
+Nom 
+Amilly 
+Nb habitants 13957 
+Coord 1 47.970001 
+Coord 2 2.780000 
+
+----------------------------
+Nom 
+Ambares-et-Lagrave 
+Nb habitants 13928 
+Coord 1 44.919998 
+Coord 2 -0.490000 
+
+----------------------------
+Nom 
+Beausoleil 
+Nb habitants 13924 
+Coord 1 43.750000 
+Coord 2 7.410000 
+
+----------------------------
+Nom 
+Les Ponts-de-Ce 
+Nb habitants 13910 
+Coord 1 47.419998 
+Coord 2 -0.520000 
+
+----------------------------
+Nom 
+Saint-Gilles 
+Nb habitants 13904 
+Coord 1 43.689999 
+Coord 2 4.420000 
+
+----------------------------
+Nom 
+Roncq 
+Nb habitants 13900 
+Coord 1 50.759998 
+Coord 2 3.120000 
+
+----------------------------
+Nom 
+Saint-Orens-de-Gameville 
+Nb habitants 13844 
+Coord 1 43.560001 
+Coord 2 1.530000 
+
+----------------------------
+Nom 
+Rive-de-Gier 
+Nb habitants 13838 
+Coord 1 45.570000 
+Coord 2 4.670000 
+
+----------------------------
+Nom 
+L'Isle-Adam 
+Nb habitants 13821 
+Coord 1 49.110001 
+Coord 2 2.220000 
+
+----------------------------
+Nom 
+Pornic 
+Nb habitants 13777 
+Coord 1 47.119999 
+Coord 2 -2.100000 
+
+----------------------------
+Nom 
+Nogent-le-Rotrou 
+Nb habitants 13763 
+Coord 1 48.330002 
+Coord 2 0.820000 
+
+----------------------------
+Nom 
+L'Isle-d'Abeau 
+Nb habitants 13742 
+Coord 1 45.619999 
+Coord 2 5.230000 
+
+----------------------------
+Nom 
+L'Union 
+Nb habitants 13675 
+Coord 1 43.660000 
+Coord 2 1.480000 
+
+----------------------------
+Nom 
+Carrieres-sur-Seine 
+Nb habitants 13659 
+Coord 1 48.919998 
+Coord 2 2.190000 
+
+----------------------------
+Nom 
+Seyssinet-Pariset 
+Nb habitants 13647 
+Coord 1 45.169998 
+Coord 2 5.670000 
+
+----------------------------
+Nom 
+Lamballe 
+Nb habitants 13622 
+Coord 1 48.470001 
+Coord 2 -2.520000 
+
+----------------------------
+Nom 
+Raismes 
+Nb habitants 13621 
+Coord 1 50.380001 
+Coord 2 3.480000 
+
+----------------------------
+Nom 
+Gaillac 
+Nb habitants 13601 
+Coord 1 43.910000 
+Coord 2 1.900000 
+
+----------------------------
+Nom 
+Barentin 
+Nb habitants 13599 
+Coord 1 49.549999 
+Coord 2 0.950000 
+
+----------------------------
+Nom 
+Woippy 
+Nb habitants 13558 
+Coord 1 49.160000 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Le Pradet 
+Nb habitants 13547 
+Coord 1 43.110001 
+Coord 2 6.010000 
+
+----------------------------
+Nom 
+Yzeure 
+Nb habitants 13525 
+Coord 1 46.570000 
+Coord 2 3.350000 
+
+----------------------------
+Nom 
+Beaumont 
+Nb habitants 13513 
+Coord 1 45.759998 
+Coord 2 3.080000 
+
+----------------------------
+Nom 
+Le Raincy 
+Nb habitants 13506 
+Coord 1 48.900002 
+Coord 2 2.500000 
+
+----------------------------
+Nom 
+Thiers 
+Nb habitants 13486 
+Coord 1 45.860001 
+Coord 2 3.540000 
+
+----------------------------
+Nom 
+Brignais 
+Nb habitants 13445 
+Coord 1 45.680000 
+Coord 2 4.750000 
+
+----------------------------
+Nom 
+Roquebrune-sur-Argens 
+Nb habitants 13445 
+Coord 1 43.439999 
+Coord 2 6.630000 
+
+----------------------------
+Nom 
+Graveline 
+Nb habitants 13442 
+Coord 1 50.990002 
+Coord 2 2.120000 
+
+----------------------------
+Nom 
+Gisors 
+Nb habitants 13415 
+Coord 1 49.279999 
+Coord 2 1.770000 
+
+----------------------------
+Nom 
+Provins 
+Nb habitants 13393 
+Coord 1 48.560001 
+Coord 2 3.300000 
+
+----------------------------
+Nom 
+Andresy 
+Nb habitants 13392 
+Coord 1 48.990002 
+Coord 2 2.070000 
+
+----------------------------
+Nom 
+Chateaubriant 
+Nb habitants 13387 
+Coord 1 47.720001 
+Coord 2 -1.370000 
+
+----------------------------
+Nom 
+Amboise 
+Nb habitants 13385 
+Coord 1 47.410000 
+Coord 2 0.980000 
+
+----------------------------
+Nom 
+Le Bourget 
+Nb habitants 13374 
+Coord 1 48.939999 
+Coord 2 2.420000 
+
+----------------------------
+Nom 
+Vaires-sur-Marne 
+Nb habitants 13360 
+Coord 1 48.880001 
+Coord 2 2.630000 
+
+----------------------------
+Nom 
+Harnes 
+Nb habitants 13355 
+Coord 1 50.450001 
+Coord 2 2.890000 
+
+----------------------------
+Nom 
+Auray 
+Nb habitants 13324 
+Coord 1 47.680000 
+Coord 2 -3.010000 
+
+----------------------------
+Nom 
+Bolbec 
+Nb habitants 13308 
+Coord 1 49.570000 
+Coord 2 0.480000 
+
+----------------------------
+Nom 
+Arnouville-les-Gonesse 
+Nb habitants 13306 
+Coord 1 48.990002 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Gaillard 
+Nb habitants 13286 
+Coord 1 46.180000 
+Coord 2 6.220000 
+
+----------------------------
+Nom 
+Chauny 
+Nb habitants 13276 
+Coord 1 49.619999 
+Coord 2 3.220000 
+
+----------------------------
+Nom 
+Oloron-Sainte-Marie 
+Nb habitants 13254 
+Coord 1 43.189999 
+Coord 2 -0.620000 
+
+----------------------------
+Nom 
+Mouvaux 
+Nb habitants 13218 
+Coord 1 50.700001 
+Coord 2 3.130000 
+
+----------------------------
+Nom 
+Quimperle 
+Nb habitants 13207 
+Coord 1 47.869999 
+Coord 2 -3.550000 
+
+----------------------------
+Nom 
+Sollies-Pont 
+Nb habitants 13204 
+Coord 1 43.189999 
+Coord 2 6.030000 
+
+----------------------------
+Nom 
+Saverne 
+Nb habitants 13177 
+Coord 1 48.750000 
+Coord 2 7.360000 
+
+----------------------------
+Nom 
+Porto-Vecchio 
+Nb habitants 13172 
+Coord 1 41.599998 
+Coord 2 9.270000 
+
+----------------------------
+Nom 
+Kingersheim 
+Nb habitants 13127 
+Coord 1 47.799999 
+Coord 2 7.320000 
+
+----------------------------
+Nom 
+Saint-Claude 
+Nb habitants 13127 
+Coord 1 46.410000 
+Coord 2 5.860000 
+
+----------------------------
+Nom 
+Pierrelatte 
+Nb habitants 13109 
+Coord 1 44.380001 
+Coord 2 4.680000 
+
+----------------------------
+Nom 
+Dinard 
+Nb habitants 13091 
+Coord 1 48.639999 
+Coord 2 -2.070000 
+
+----------------------------
+Nom 
+Saint-Fargeau-Ponthierry 
+Nb habitants 13063 
+Coord 1 48.540001 
+Coord 2 2.550000 
+
+----------------------------
+Nom 
+Graulhet 
+Nb habitants 13057 
+Coord 1 43.770000 
+Coord 2 1.990000 
+
+----------------------------
+Nom 
+Guebwiller 
+Nb habitants 13056 
+Coord 1 47.919998 
+Coord 2 7.210000 
+
+----------------------------
+Nom 
+Obernai 
+Nb habitants 13044 
+Coord 1 48.470001 
+Coord 2 7.490000 
+
+----------------------------
+Nom 
+Comines 
+Nb habitants 13013 
+Coord 1 50.770000 
+Coord 2 3.010000 
+
+----------------------------
+Nom 
+Chateau-Gontier 
+Nb habitants 13001 
+Coord 1 47.830002 
+Coord 2 -0.710000 
+
+----------------------------
+Nom 
+Bernay 
+Nb habitants 12983 
+Coord 1 49.099998 
+Coord 2 0.600000 
+
+----------------------------
+Nom 
+Epinay-sous-Senart 
+Nb habitants 12970 
+Coord 1 48.680000 
+Coord 2 2.510000 
+
+----------------------------
+Nom 
+Ramonville-Saint-Agne 
+Nb habitants 12949 
+Coord 1 43.549999 
+Coord 2 1.470000 
+
+----------------------------
+Nom 
+Riediesheim 
+Nb habitants 12944 
+Coord 1 47.750000 
+Coord 2 7.350000 
+
+----------------------------
+Nom 
+Saint-Martin-Boulogne 
+Nb habitants 12931 
+Coord 1 50.740002 
+Coord 2 1.620000 
+
+----------------------------
+Nom 
+Castelnaudary 
+Nb habitants 12924 
+Coord 1 43.320000 
+Coord 2 1.950000 
+
+----------------------------
+Nom 
+Dugny 
+Nb habitants 12912 
+Coord 1 48.950001 
+Coord 2 2.420000 
+
+----------------------------
+Nom 
+Stiring-Wendel 
+Nb habitants 12903 
+Coord 1 49.200001 
+Coord 2 6.920000 
+
+----------------------------
+Nom 
+Juvisy-sur-Orge 
+Nb habitants 12890 
+Coord 1 48.680000 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+La Queue-en-Brie 
+Nb habitants 12873 
+Coord 1 48.790001 
+Coord 2 2.580000 
+
+----------------------------
+Nom 
+Saint-Paul-les-Dax 
+Nb habitants 12842 
+Coord 1 43.750000 
+Coord 2 -1.040000 
+
+----------------------------
+Nom 
+Rognac 
+Nb habitants 12831 
+Coord 1 43.490002 
+Coord 2 5.230000 
+
+----------------------------
+Nom 
+Vaux-le-Penil 
+Nb habitants 12822 
+Coord 1 48.529999 
+Coord 2 2.670000 
+
+----------------------------
+Nom 
+Dinan 
+Nb habitants 12772 
+Coord 1 48.470001 
+Coord 2 -2.060000 
+
+----------------------------
+Nom 
+Fontenay-le-Fleury 
+Nb habitants 12737 
+Coord 1 48.820000 
+Coord 2 2.050000 
+
+----------------------------
+Nom 
+Bischwiller 
+Nb habitants 12713 
+Coord 1 48.770000 
+Coord 2 7.850000 
+
+----------------------------
+Nom 
+Le Relecq-Kerhoun 
+Nb habitants 12706 
+Coord 1 48.410000 
+Coord 2 -4.410000 
+
+----------------------------
+Nom 
+Le Chambon-Feugerolles 
+Nb habitants 12658 
+Coord 1 45.389999 
+Coord 2 4.310000 
+
+----------------------------
+Nom 
+Saint-Gaudens 
+Nb habitants 12637 
+Coord 1 43.119999 
+Coord 2 0.700000 
+
+----------------------------
+Nom 
+Passy 
+Nb habitants 12624 
+Coord 1 45.930000 
+Coord 2 6.680000 
+
+----------------------------
+Nom 
+Castanet-Tolosan 
+Nb habitants 12598 
+Coord 1 43.520000 
+Coord 2 1.500000 
+
+----------------------------
+Nom 
+Tarnos 
+Nb habitants 12589 
+Coord 1 43.549999 
+Coord 2 -1.480000 
+
+----------------------------
+Nom 
+Valenton 
+Nb habitants 12585 
+Coord 1 48.750000 
+Coord 2 2.450000 
+
+----------------------------
+Nom 
+Arcachon 
+Nb habitants 12584 
+Coord 1 44.660000 
+Coord 2 -1.180000 
+
+----------------------------
+Nom 
+Francheville 
+Nb habitants 12570 
+Coord 1 45.740002 
+Coord 2 4.770000 
+
+----------------------------
+Nom 
+Orthez 
+Nb habitants 12562 
+Coord 1 43.500000 
+Coord 2 -0.780000 
+
+----------------------------
+Nom 
+Valentigney 
+Nb habitants 12503 
+Coord 1 47.459999 
+Coord 2 6.830000 
+
+----------------------------
+Nom 
+Somain 
+Nb habitants 12449 
+Coord 1 50.360001 
+Coord 2 3.280000 
+
+----------------------------
+Nom 
+Bonneville 
+Nb habitants 12447 
+Coord 1 46.090000 
+Coord 2 6.400000 
+
+----------------------------
+Nom 
+Trelaze 
+Nb habitants 12437 
+Coord 1 47.459999 
+Coord 2 -0.470000 
+
+----------------------------
+Nom 
+Tournon-sur-Rhone 
+Nb habitants 12436 
+Coord 1 45.070000 
+Coord 2 4.840000 
+
+----------------------------
+Nom 
+Onet-le-Chataeu 
+Nb habitants 12416 
+Coord 1 44.389999 
+Coord 2 2.540000 
+
+----------------------------
+Nom 
+Mions 
+Nb habitants 12396 
+Coord 1 45.660000 
+Coord 2 4.950000 
+
+----------------------------
+Nom 
+Figeac 
+Nb habitants 12369 
+Coord 1 44.610001 
+Coord 2 2.010000 
+
+----------------------------
+Nom 
+Villetaneuse 
+Nb habitants 12326 
+Coord 1 48.959999 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Mondeville 
+Nb habitants 12314 
+Coord 1 49.169998 
+Coord 2 -0.290000 
+
+----------------------------
+Nom 
+Aubergenville 
+Nb habitants 12293 
+Coord 1 48.970001 
+Coord 2 1.850000 
+
+----------------------------
+Nom 
+Bruay-sur-l'Escaut 
+Nb habitants 12288 
+Coord 1 50.389999 
+Coord 2 3.530000 
+
+----------------------------
+Nom 
+Clermont 
+Nb habitants 12258 
+Coord 1 49.389999 
+Coord 2 2.410000 
+
+----------------------------
+Nom 
+Ploufragan 
+Nb habitants 12227 
+Coord 1 48.490002 
+Coord 2 -2.790000 
+
+----------------------------
+Nom 
+Maromme 
+Nb habitants 12220 
+Coord 1 49.480000 
+Coord 2 1.020000 
+
+----------------------------
+Nom 
+Seclin 
+Nb habitants 12216 
+Coord 1 50.549999 
+Coord 2 3.020000 
+
+----------------------------
+Nom 
+Saint-Junien 
+Nb habitants 12212 
+Coord 1 45.889999 
+Coord 2 0.890000 
+
+----------------------------
+Nom 
+Joigny 
+Nb habitants 12193 
+Coord 1 48.000000 
+Coord 2 3.400000 
+
+----------------------------
+Nom 
+Morangis 
+Nb habitants 12152 
+Coord 1 48.700001 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Ville-d'Avray 
+Nb habitants 12138 
+Coord 1 48.820000 
+Coord 2 2.170000 
+
+----------------------------
+Nom 
+Bois-d'Arcy 
+Nb habitants 12114 
+Coord 1 48.810001 
+Coord 2 2.020000 
+
+----------------------------
+Nom 
+Le Pont-de-Claix 
+Nb habitants 12079 
+Coord 1 45.119999 
+Coord 2 5.690000 
+
+----------------------------
+Nom 
+Saint-Amand-Montrond 
+Nb habitants 12055 
+Coord 1 46.720001 
+Coord 2 2.490000 
+
+----------------------------
+Nom 
+Parthenay 
+Nb habitants 12007 
+Coord 1 46.650002 
+Coord 2 -0.260000 
+
+----------------------------
+Nom 
+Sainte-Savine 
+Nb habitants 11984 
+Coord 1 48.310001 
+Coord 2 4.040000 
+
+----------------------------
+Nom 
+Bellegarde-sur-Valserine 
+Nb habitants 11970 
+Coord 1 46.119999 
+Coord 2 5.820000 
+
+----------------------------
+Nom 
+Montataire 
+Nb habitants 11935 
+Coord 1 49.259998 
+Coord 2 2.430000 
+
+----------------------------
+Nom 
+Monteux 
+Nb habitants 11914 
+Coord 1 44.029999 
+Coord 2 5.000000 
+
+----------------------------
+Nom 
+Briancon 
+Nb habitants 11913 
+Coord 1 44.910000 
+Coord 2 6.620000 
+
+----------------------------
+Nom 
+Saint-Martin-de-Crau 
+Nb habitants 11884 
+Coord 1 43.650002 
+Coord 2 4.800000 
+
+----------------------------
+Nom 
+Vernouillet 
+Nb habitants 11883 
+Coord 1 48.730000 
+Coord 2 1.340000 
+
+----------------------------
+Nom 
+Aubiere 
+Nb habitants 11878 
+Coord 1 45.759998 
+Coord 2 3.110000 
+
+----------------------------
+Nom 
+Noeux-les-Mines 
+Nb habitants 11868 
+Coord 1 50.480000 
+Coord 2 2.660000 
+
+----------------------------
+Nom 
+Thouars 
+Nb habitants 11859 
+Coord 1 46.990002 
+Coord 2 -0.220000 
+
+----------------------------
+Nom 
+Claye-Souilly 
+Nb habitants 11841 
+Coord 1 48.950001 
+Coord 2 2.690000 
+
+----------------------------
+Nom 
+Olonne-sur-Mer 
+Nb habitants 11819 
+Coord 1 46.529999 
+Coord 2 -1.780000 
+
+----------------------------
+Nom 
+Fameck 
+Nb habitants 11817 
+Coord 1 49.299999 
+Coord 2 6.120000 
+
+----------------------------
+Nom 
+Talant 
+Nb habitants 11811 
+Coord 1 47.330002 
+Coord 2 5.010000 
+
+----------------------------
+Nom 
+Roquebrune-Cap-Martin 
+Nb habitants 11808 
+Coord 1 43.770000 
+Coord 2 7.470000 
+
+----------------------------
+Nom 
+Bully-les-Mines 
+Nb habitants 11802 
+Coord 1 50.439999 
+Coord 2 2.720000 
+
+----------------------------
+Nom 
+Apt 
+Nb habitants 11793 
+Coord 1 43.880001 
+Coord 2 5.390000 
+
+----------------------------
+Nom 
+Guilherand-Granges 
+Nb habitants 11758 
+Coord 1 44.939999 
+Coord 2 4.850000 
+
+----------------------------
+Nom 
+Plan-de-Cuques 
+Nb habitants 11738 
+Coord 1 43.349998 
+Coord 2 5.480000 
+
+----------------------------
+Nom 
+Canet-en-Roussillon 
+Nb habitants 11713 
+Coord 1 42.700001 
+Coord 2 3.030000 
+
+----------------------------
+Nom 
+Allonnes 
+Nb habitants 11701 
+Coord 1 47.970001 
+Coord 2 0.140000 
+
+----------------------------
+Nom 
+Ussel 
+Nb habitants 11674 
+Coord 1 45.549999 
+Coord 2 2.300000 
+
+----------------------------
+Nom 
+Bondues 
+Nb habitants 11665 
+Coord 1 50.709999 
+Coord 2 3.100000 
+
+----------------------------
+Nom 
+Croissy-sur-Seine 
+Nb habitants 11660 
+Coord 1 48.880001 
+Coord 2 2.140000 
+
+----------------------------
+Nom 
+Soyaux 
+Nb habitants 11652 
+Coord 1 45.650002 
+Coord 2 0.190000 
+
+----------------------------
+Nom 
+Sarlat-la-Caneda 
+Nb habitants 11635 
+Coord 1 44.900002 
+Coord 2 1.200000 
+
+----------------------------
+Nom 
+Mazamet 
+Nb habitants 11614 
+Coord 1 43.490002 
+Coord 2 2.360000 
+
+----------------------------
+Nom 
+Marly 
+Nb habitants 11573 
+Coord 1 49.070000 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Marly 
+Nb habitants 11572 
+Coord 1 50.349998 
+Coord 2 3.550000 
+
+----------------------------
+Nom 
+Ostwald 
+Nb habitants 11569 
+Coord 1 48.549999 
+Coord 2 7.720000 
+
+----------------------------
+Nom 
+Cosne-Cours-sur-Loire 
+Nb habitants 11552 
+Coord 1 47.410000 
+Coord 2 2.930000 
+
+----------------------------
+Nom 
+Chateauneuf-les-Martigues 
+Nb habitants 11547 
+Coord 1 43.389999 
+Coord 2 5.150000 
+
+----------------------------
+Nom 
+Enghien-les-Bains 
+Nb habitants 11546 
+Coord 1 48.959999 
+Coord 2 2.310000 
+
+----------------------------
+Nom 
+Oissel 
+Nb habitants 11537 
+Coord 1 49.349998 
+Coord 2 1.100000 
+
+----------------------------
+Nom 
+Hericourt 
+Nb habitants 11497 
+Coord 1 47.580002 
+Coord 2 6.740000 
+
+----------------------------
+Nom 
+Hirson 
+Nb habitants 11487 
+Coord 1 49.930000 
+Coord 2 4.080000 
+
+----------------------------
+Nom 
+Pernes-les-Fontaines 
+Nb habitants 11464 
+Coord 1 44.000000 
+Coord 2 5.050000 
+
+----------------------------
+Nom 
+Etaples 
+Nb habitants 11449 
+Coord 1 50.520000 
+Coord 2 1.640000 
+
+----------------------------
+Nom 
+Biscarrosse 
+Nb habitants 11406 
+Coord 1 44.400002 
+Coord 2 -1.170000 
+
+----------------------------
+Nom 
+Saint-Saulve 
+Nb habitants 11386 
+Coord 1 50.369999 
+Coord 2 3.550000 
+
+----------------------------
+Nom 
+Mericourt 
+Nb habitants 11361 
+Coord 1 50.400002 
+Coord 2 2.860000 
+
+----------------------------
+Nom 
+Cernay 
+Nb habitants 11343 
+Coord 1 47.810001 
+Coord 2 7.170000 
+
+----------------------------
+Nom 
+Saint-Andre-les-Vergers 
+Nb habitants 11340 
+Coord 1 48.290001 
+Coord 2 4.060000 
+
+----------------------------
+Nom 
+Auchel 
+Nb habitants 11312 
+Coord 1 50.500000 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Pornichet 
+Nb habitants 11306 
+Coord 1 47.250000 
+Coord 2 -2.350000 
+
+----------------------------
+Nom 
+Yvetot 
+Nb habitants 11301 
+Coord 1 49.630001 
+Coord 2 0.750000 
+
+----------------------------
+Nom 
+Le Portel 
+Nb habitants 11289 
+Coord 1 50.720001 
+Coord 2 1.580000 
+
+----------------------------
+Nom 
+Chambray-les-Tours 
+Nb habitants 11255 
+Coord 1 47.330002 
+Coord 2 0.720000 
+
+----------------------------
+Nom 
+Limoux 
+Nb habitants 11235 
+Coord 1 43.060001 
+Coord 2 2.210000 
+
+----------------------------
+Nom 
+Sassenage 
+Nb habitants 11229 
+Coord 1 45.200001 
+Coord 2 5.670000 
+
+----------------------------
+Nom 
+Annoeullin 
+Nb habitants 11206 
+Coord 1 50.529999 
+Coord 2 2.940000 
+
+----------------------------
+Nom 
+Saint-Max 
+Nb habitants 11169 
+Coord 1 48.709999 
+Coord 2 6.200000 
+
+----------------------------
+Nom 
+Riorges 
+Nb habitants 11157 
+Coord 1 46.049999 
+Coord 2 4.040000 
+
+----------------------------
+Nom 
+Fosses 
+Nb habitants 11148 
+Coord 1 49.099998 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Saint-Remy-de-Provence 
+Nb habitants 11148 
+Coord 1 43.799999 
+Coord 2 4.820000 
+
+----------------------------
+Nom 
+Lescar 
+Nb habitants 11110 
+Coord 1 43.330002 
+Coord 2 -0.420000 
+
+----------------------------
+Nom 
+Bures-sur-Yvette 
+Nb habitants 11109 
+Coord 1 48.700001 
+Coord 2 2.170000 
+
+----------------------------
+Nom 
+Saint-Brevin-les-Pins 
+Nb habitants 11105 
+Coord 1 47.250000 
+Coord 2 -2.170000 
+
+----------------------------
+Nom 
+Loudeac 
+Nb habitants 11079 
+Coord 1 48.189999 
+Coord 2 -2.770000 
+
+----------------------------
+Nom 
+Andernos-les-Bains 
+Nb habitants 11071 
+Coord 1 44.730000 
+Coord 2 -1.100000 
+
+----------------------------
+Nom 
+Carros 
+Nb habitants 11071 
+Coord 1 43.799999 
+Coord 2 7.180000 
+
+----------------------------
+Nom 
+Chamonix-Mont-Blanc 
+Nb habitants 11013 
+Coord 1 45.930000 
+Coord 2 6.850000 
+
+----------------------------
+Nom 
+Chantilly 
+Nb habitants 11009 
+Coord 1 49.189999 
+Coord 2 2.460000 
+
+----------------------------
+Nom 
+Rombas 
+Nb habitants 11003 
+Coord 1 49.250000 
+Coord 2 6.100000 
+
+----------------------------
+Nom 
+Dourdan 
+Nb habitants 10978 
+Coord 1 48.540001 
+Coord 2 2.010000 
+
+----------------------------
+Nom 
+Hoenheim 
+Nb habitants 10974 
+Coord 1 48.630001 
+Coord 2 7.750000 
+
+----------------------------
+Nom 
+Jeumont 
+Nb habitants 10957 
+Coord 1 50.310001 
+Coord 2 4.100000 
+
+----------------------------
+Nom 
+Bussy-Saint-Georges 
+Nb habitants 10953 
+Coord 1 48.849998 
+Coord 2 2.710000 
+
+----------------------------
+Nom 
+Vauvert 
+Nb habitants 10939 
+Coord 1 43.700001 
+Coord 2 4.260000 
+
+----------------------------
+Nom 
+Tarare 
+Nb habitants 10913 
+Coord 1 45.900002 
+Coord 2 4.420000 
+
+----------------------------
+Nom 
+Saint-Julien-en-Genevois 
+Nb habitants 10855 
+Coord 1 46.130001 
+Coord 2 6.080000 
+
+----------------------------
+Nom 
+Amneville 
+Nb habitants 10851 
+Coord 1 49.259998 
+Coord 2 6.140000 
+
+----------------------------
+Nom 
+Albert 
+Nb habitants 10803 
+Coord 1 50.000000 
+Coord 2 2.650000 
+
+----------------------------
+Nom 
+Marquette-lez-Lille 
+Nb habitants 10793 
+Coord 1 50.660000 
+Coord 2 3.070000 
+
+----------------------------
+Nom 
+Thorigny-sur-Marne 
+Nb habitants 10782 
+Coord 1 48.880001 
+Coord 2 2.720000 
+
+----------------------------
+Nom 
+Voreppe 
+Nb habitants 10779 
+Coord 1 45.299999 
+Coord 2 5.630000 
+
+----------------------------
+Nom 
+Chevigny-Saint-Sauveur 
+Nb habitants 10777 
+Coord 1 47.299999 
+Coord 2 5.130000 
+
+----------------------------
+Nom 
+La Roche-sur-Foron 
+Nb habitants 10768 
+Coord 1 46.070000 
+Coord 2 6.320000 
+
+----------------------------
+Nom 
+Quetigny 
+Nb habitants 10766 
+Coord 1 47.310001 
+Coord 2 5.110000 
+
+----------------------------
+Nom 
+Vieux-Conde 
+Nb habitants 10766 
+Coord 1 50.459999 
+Coord 2 3.560000 
+
+----------------------------
+Nom 
+Montigny-en-Gohelle 
+Nb habitants 10762 
+Coord 1 50.439999 
+Coord 2 2.940000 
+
+----------------------------
+Nom 
+Valreas 
+Nb habitants 10762 
+Coord 1 44.389999 
+Coord 2 4.980000 
+
+----------------------------
+Nom 
+Eybens 
+Nb habitants 10758 
+Coord 1 45.150002 
+Coord 2 5.750000 
+
+----------------------------
+Nom 
+Mainvillier 
+Nb habitants 10754 
+Coord 1 48.450001 
+Coord 2 1.450000 
+
+----------------------------
+Nom 
+Lucon 
+Nb habitants 10742 
+Coord 1 46.450001 
+Coord 2 -1.170000 
+
+----------------------------
+Nom 
+La Ferte-Bernard 
+Nb habitants 10730 
+Coord 1 48.180000 
+Coord 2 0.650000 
+
+----------------------------
+Nom 
+Aire-sur-la-Lys 
+Nb habitants 10725 
+Coord 1 50.639999 
+Coord 2 2.390000 
+
+----------------------------
+Nom 
+Argeles-sur-Mer 
+Nb habitants 10715 
+Coord 1 42.549999 
+Coord 2 3.020000 
+
+----------------------------
+Nom 
+Portet-sur-Garonne 
+Nb habitants 10672 
+Coord 1 43.520000 
+Coord 2 1.420000 
+
+----------------------------
+Nom 
+Oignies 
+Nb habitants 10613 
+Coord 1 50.470001 
+Coord 2 2.990000 
+
+----------------------------
+Nom 
+Florange 
+Nb habitants 10608 
+Coord 1 49.330002 
+Coord 2 6.120000 
+
+----------------------------
+Nom 
+Igny 
+Nb habitants 10572 
+Coord 1 48.740002 
+Coord 2 2.210000 
+
+----------------------------
+Nom 
+Villebon-sur-Yvette 
+Nb habitants 10567 
+Coord 1 48.700001 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Gex 
+Nb habitants 10560 
+Coord 1 46.330002 
+Coord 2 6.070000 
+
+----------------------------
+Nom 
+Saint-Esteve 
+Nb habitants 10560 
+Coord 1 42.700001 
+Coord 2 2.850000 
+
+----------------------------
+Nom 
+Roche-la-Moliere 
+Nb habitants 10536 
+Coord 1 45.439999 
+Coord 2 4.320000 
+
+----------------------------
+Nom 
+Sallaumines 
+Nb habitants 10527 
+Coord 1 50.419998 
+Coord 2 2.860000 
+
+----------------------------
+Nom 
+Cogolin 
+Nb habitants 10524 
+Coord 1 43.250000 
+Coord 2 6.530000 
+
+----------------------------
+Nom 
+Gerardmer 
+Nb habitants 10521 
+Coord 1 48.080002 
+Coord 2 6.880000 
+
+----------------------------
+Nom 
+Feyzin 
+Nb habitants 10504 
+Coord 1 45.669998 
+Coord 2 4.850000 
+
+----------------------------
+Nom 
+Deville-les-Rouen 
+Nb habitants 10485 
+Coord 1 49.459999 
+Coord 2 1.030000 
+
+----------------------------
+Nom 
+Vernouillet 
+Nb habitants 10484 
+Coord 1 48.970001 
+Coord 2 1.980000 
+
+----------------------------
+Nom 
+Saint-Andre-lez-Lille 
+Nb habitants 10476 
+Coord 1 50.669998 
+Coord 2 3.050000 
+
+----------------------------
+Nom 
+Arpajon 
+Nb habitants 10469 
+Coord 1 48.580002 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Guidel 
+Nb habitants 10458 
+Coord 1 47.790001 
+Coord 2 -3.490000 
+
+----------------------------
+Nom 
+Montlouis-sur-Loire 
+Nb habitants 10458 
+Coord 1 47.380001 
+Coord 2 0.830000 
+
+----------------------------
+Nom 
+Varennes-Vauzelles 
+Nb habitants 10403 
+Coord 1 46.990002 
+Coord 2 3.140000 
+
+----------------------------
+Nom 
+Tinqueux 
+Nb habitants 10374 
+Coord 1 49.250000 
+Coord 2 3.970000 
+
+----------------------------
+Nom 
+Panazol 
+Nb habitants 10372 
+Coord 1 45.830002 
+Coord 2 1.300000 
+
+----------------------------
+Nom 
+Jarville-la-Malgrange 
+Nb habitants 10362 
+Coord 1 48.680000 
+Coord 2 6.220000 
+
+----------------------------
+Nom 
+Bourg-de-Peage 
+Nb habitants 10359 
+Coord 1 45.029999 
+Coord 2 5.050000 
+
+----------------------------
+Nom 
+Carmaux 
+Nb habitants 10357 
+Coord 1 44.049999 
+Coord 2 2.160000 
+
+----------------------------
+Nom 
+Molsheim 
+Nb habitants 10301 
+Coord 1 48.529999 
+Coord 2 7.490000 
+
+----------------------------
+Nom 
+La Ferte-sous-Jouarre 
+Nb habitants 10298 
+Coord 1 48.950001 
+Coord 2 3.130000 
+
+----------------------------
+Nom 
+Septemes-les-Vallons 
+Nb habitants 10287 
+Coord 1 43.410000 
+Coord 2 5.370000 
+
+----------------------------
+Nom 
+Aniche 
+Nb habitants 10278 
+Coord 1 50.330002 
+Coord 2 3.250000 
+
+----------------------------
+Nom 
+Lillers 
+Nb habitants 10274 
+Coord 1 50.560001 
+Coord 2 2.480000 
+
+----------------------------
+Nom 
+Auriol 
+Nb habitants 10262 
+Coord 1 43.380001 
+Coord 2 5.630000 
+
+----------------------------
+Nom 
+Villepreux 
+Nb habitants 10260 
+Coord 1 48.830002 
+Coord 2 2.020000 
+
+----------------------------
+Nom 
+La Trinite 
+Nb habitants 10236 
+Coord 1 43.750000 
+Coord 2 7.320000 
+
+----------------------------
+Nom 
+Behren-les-Forbach 
+Nb habitants 10229 
+Coord 1 49.169998 
+Coord 2 6.950000 
+
+----------------------------
+Nom 
+Pont-Saint-Esprit 
+Nb habitants 10227 
+Coord 1 44.259998 
+Coord 2 4.630000 
+
+----------------------------
+Nom 
+Maizieres-les-Metz 
+Nb habitants 10209 
+Coord 1 49.209999 
+Coord 2 6.150000 
+
+----------------------------
+Nom 
+Bondoufle 
+Nb habitants 10163 
+Coord 1 48.619999 
+Coord 2 2.380000 
+
+----------------------------
+Nom 
+Isbergues 
+Nb habitants 10140 
+Coord 1 50.619999 
+Coord 2 2.450000 
+
+----------------------------
+Nom 
+Ormesson-sur-Marne 
+Nb habitants 10136 
+Coord 1 48.790001 
+Coord 2 2.540000 
+
+----------------------------
+Nom 
+La Londe-les-Maures 
+Nb habitants 10132 
+Coord 1 43.130001 
+Coord 2 6.230000 
+
+----------------------------
+Nom 
+Corbas 
+Nb habitants 10125 
+Coord 1 45.669998 
+Coord 2 4.900000 
+
+----------------------------
+Nom 
+Trets 
+Nb habitants 10119 
+Coord 1 43.450001 
+Coord 2 5.680000 
+
+----------------------------
+Nom 
+Beauchamp 
+Nb habitants 10118 
+Coord 1 49.020000 
+Coord 2 2.200000 
+
+----------------------------
+Nom 
+Douchy-les-Mines 
+Nb habitants 10112 
+Coord 1 50.299999 
+Coord 2 3.380000 
+
+----------------------------
+Nom 
+Caudebec-les-Elbeuf 
+Nb habitants 10104 
+Coord 1 49.279999 
+Coord 2 1.040000 
+
+----------------------------
+Nom 
+Villeneuve-Tolosane 
+Nb habitants 10088 
+Coord 1 43.520000 
+Coord 2 1.330000 
+
+----------------------------
+Nom 
+Wittelsheim 
+Nb habitants 10081 
+Coord 1 47.849998 
+Coord 2 7.210000 
+
+----------------------------
+Nom 
+Betton 
+Nb habitants 10079 
+Coord 1 48.180000 
+Coord 2 -1.650000 
+
+----------------------------
+Nom 
+Mery-sur-Oise 
+Nb habitants 10073 
+Coord 1 49.070000 
+Coord 2 2.200000 
+
+----------------------------
+Nom 
+Vedene 
+Nb habitants 10062 
+Coord 1 43.980000 
+Coord 2 4.900000 
+
+----------------------------
+Nom 
+Tonneins 
+Nb habitants 10053 
+Coord 1 44.389999 
+Coord 2 0.310000 
+
+----------------------------
+Nom 
+Villers-Cotterets 
+Nb habitants 10053 
+Coord 1 49.250000 
+Coord 2 3.080000 
+
+----------------------------
+Nom 
+Courrieres 
+Nb habitants 10020 
+Coord 1 50.450001 
+Coord 2 2.930000 
+
+----------------------------
+Nom 
+Fondettes 
+Nb habitants 9991 
+Coord 1 47.400002 
+Coord 2 0.600000 
+
+----------------------------
+Nom 
+Pierre-Benite 
+Nb habitants 9987 
+Coord 1 45.700001 
+Coord 2 4.820000 
+
+----------------------------
+Nom 
+Conde-sur-l'Escaut 
+Nb habitants 9957 
+Coord 1 50.459999 
+Coord 2 3.580000 
+
+----------------------------
+Nom 
+Buxerolles 
+Nb habitants 9956 
+Coord 1 46.619999 
+Coord 2 0.480000 
+
+----------------------------
+Nom 
+Foix 
+Nb habitants 9943 
+Coord 1 42.970001 
+Coord 2 1.600000 
+
+----------------------------
+Nom 
+La Chapelle-Saint-Mesmin 
+Nb habitants 9922 
+Coord 1 47.880001 
+Coord 2 1.830000 
+
+----------------------------
+Nom 
+Saint-Hilaire-de-Riez 
+Nb habitants 9913 
+Coord 1 46.720001 
+Coord 2 -1.950000 
+
+----------------------------
+Nom 
+Leers 
+Nb habitants 9909 
+Coord 1 50.689999 
+Coord 2 3.250000 
+
+----------------------------
+Nom 
+Louvres 
+Nb habitants 9895 
+Coord 1 49.029999 
+Coord 2 2.500000 
+
+----------------------------
+Nom 
+Miribel 
+Nb habitants 9884 
+Coord 1 45.820000 
+Coord 2 4.950000 
+
+----------------------------
+Nom 
+Les Andelys 
+Nb habitants 9878 
+Coord 1 49.250000 
+Coord 2 1.420000 
+
+----------------------------
+Nom 
+Saint-Cyprien 
+Nb habitants 9844 
+Coord 1 42.619999 
+Coord 2 3.010000 
+
+----------------------------
+Nom 
+Pont-Audemer 
+Nb habitants 9840 
+Coord 1 49.349998 
+Coord 2 0.500000 
+
+----------------------------
+Nom 
+Ifs 
+Nb habitants 9832 
+Coord 1 49.130001 
+Coord 2 -0.350000 
+
+----------------------------
+Nom 
+Pithiviers 
+Nb habitants 9824 
+Coord 1 48.180000 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Saint-Jean-de-Vedas 
+Nb habitants 9821 
+Coord 1 43.580002 
+Coord 2 3.840000 
+
+----------------------------
+Nom 
+Lillebonne 
+Nb habitants 9820 
+Coord 1 49.529999 
+Coord 2 0.530000 
+
+----------------------------
+Nom 
+Paray-le-Monial 
+Nb habitants 9818 
+Coord 1 46.450001 
+Coord 2 4.110000 
+
+----------------------------
+Nom 
+Queven 
+Nb habitants 9817 
+Coord 1 47.779999 
+Coord 2 -3.420000 
+
+----------------------------
+Nom 
+Carqueiranne 
+Nb habitants 9814 
+Coord 1 43.080002 
+Coord 2 6.080000 
+
+----------------------------
+Nom 
+Chambly 
+Nb habitants 9793 
+Coord 1 49.169998 
+Coord 2 2.250000 
+
+----------------------------
+Nom 
+Brumath 
+Nb habitants 9790 
+Coord 1 48.730000 
+Coord 2 7.720000 
+
+----------------------------
+Nom 
+Hombourg-Haut 
+Nb habitants 9767 
+Coord 1 49.119999 
+Coord 2 6.780000 
+
+----------------------------
+Nom 
+Gonfreville-l'Orcher 
+Nb habitants 9760 
+Coord 1 49.500000 
+Coord 2 0.220000 
+
+----------------------------
+Nom 
+Belley 
+Nb habitants 9738 
+Coord 1 45.770000 
+Coord 2 5.680000 
+
+----------------------------
+Nom 
+Saint-Jean 
+Nb habitants 9732 
+Coord 1 43.669998 
+Coord 2 1.500000 
+
+----------------------------
+Nom 
+Coutances 
+Nb habitants 9706 
+Coord 1 49.060001 
+Coord 2 -1.450000 
+
+----------------------------
+Nom 
+Chassieu 
+Nb habitants 9704 
+Coord 1 45.750000 
+Coord 2 4.970000 
+
+----------------------------
+Nom 
+Chinon 
+Nb habitants 9702 
+Coord 1 47.169998 
+Coord 2 0.250000 
+
+----------------------------
+Nom 
+Epinay-sur-Orge 
+Nb habitants 9688 
+Coord 1 48.669998 
+Coord 2 2.330000 
+
+----------------------------
+Nom 
+Le Passage 
+Nb habitants 9687 
+Coord 1 44.200001 
+Coord 2 0.600000 
+
+----------------------------
+Nom 
+Villerupt 
+Nb habitants 9687 
+Coord 1 49.480000 
+Coord 2 5.930000 
+
+----------------------------
+Nom 
+Magny-les-Hameaux 
+Nb habitants 9682 
+Coord 1 48.730000 
+Coord 2 2.070000 
+
+----------------------------
+Nom 
+Mouans-Sartoux 
+Nb habitants 9673 
+Coord 1 43.619999 
+Coord 2 6.970000 
+
+----------------------------
+Nom 
+Pont-du-Chateau 
+Nb habitants 9670 
+Coord 1 45.799999 
+Coord 2 3.250000 
+
+----------------------------
+Nom 
+Longvic 
+Nb habitants 9667 
+Coord 1 47.279999 
+Coord 2 5.070000 
+
+----------------------------
+Nom 
+Lure 
+Nb habitants 9667 
+Coord 1 47.689999 
+Coord 2 6.490000 
+
+----------------------------
+Nom 
+Gouvieux 
+Nb habitants 9652 
+Coord 1 49.189999 
+Coord 2 2.420000 
+
+----------------------------
+Nom 
+Larmor-Plage 
+Nb habitants 9643 
+Coord 1 47.700001 
+Coord 2 -3.380000 
+
+----------------------------
+Nom 
+Saint-Jean-de-Maurienne 
+Nb habitants 9636 
+Coord 1 45.279999 
+Coord 2 6.330000 
+
+----------------------------
+Nom 
+Villecresnes 
+Nb habitants 9622 
+Coord 1 48.720001 
+Coord 2 2.530000 
+
+----------------------------
+Nom 
+Arques 
+Nb habitants 9620 
+Coord 1 50.730000 
+Coord 2 2.280000 
+
+----------------------------
+Nom 
+Erstein 
+Nb habitants 9592 
+Coord 1 48.430000 
+Coord 2 7.670000 
+
+----------------------------
+Nom 
+Saint-Doulchard 
+Nb habitants 9582 
+Coord 1 47.110001 
+Coord 2 2.350000 
+
+----------------------------
+Nom 
+Beaumont-sur-Oise 
+Nb habitants 9565 
+Coord 1 49.130001 
+Coord 2 2.280000 
+
+----------------------------
+Nom 
+Cabestany 
+Nb habitants 9565 
+Coord 1 42.680000 
+Coord 2 2.930000 
+
+----------------------------
+Nom 
+Saint-Vallier 
+Nb habitants 9554 
+Coord 1 46.650002 
+Coord 2 4.350000 
+
+----------------------------
+Nom 
+Chanteloup-les-Vignes 
+Nb habitants 9549 
+Coord 1 48.990002 
+Coord 2 2.030000 
+
+----------------------------
+Nom 
+Escaudain 
+Nb habitants 9549 
+Coord 1 50.330002 
+Coord 2 3.340000 
+
+----------------------------
+Nom 
+Redon 
+Nb habitants 9544 
+Coord 1 47.650002 
+Coord 2 -2.080000 
+
+----------------------------
+Nom 
+Beauchamps 
+Nb habitants 9540 
+Coord 1 49.009998 
+Coord 2 2.200000 
+
+----------------------------
+Nom 
+Lavaur 
+Nb habitants 9537 
+Coord 1 43.700001 
+Coord 2 1.830000 
+
+----------------------------
+Nom 
+Lezignan-Corbieres 
+Nb habitants 9535 
+Coord 1 43.200001 
+Coord 2 2.770000 
+
+----------------------------
+Nom 
+Andrezieux-Boutheon 
+Nb habitants 9532 
+Coord 1 45.529999 
+Coord 2 4.260000 
+
+----------------------------
+Nom 
+Crolles 
+Nb habitants 9525 
+Coord 1 45.279999 
+Coord 2 5.880000 
+
+----------------------------
+Nom 
+Perols 
+Nb habitants 9521 
+Coord 1 43.570000 
+Coord 2 3.950000 
+
+----------------------------
+Nom 
+Gerzat 
+Nb habitants 9502 
+Coord 1 45.840000 
+Coord 2 3.150000 
+
+----------------------------
+Nom 
+Castelginest 
+Nb habitants 9490 
+Coord 1 43.700001 
+Coord 2 1.430000 
+
+----------------------------
+Nom 
+Cuers 
+Nb habitants 9488 
+Coord 1 43.230000 
+Coord 2 6.070000 
+
+----------------------------
+Nom 
+Remiremont 
+Nb habitants 9456 
+Coord 1 48.009998 
+Coord 2 6.590000 
+
+----------------------------
+Nom 
+Privas 
+Nb habitants 9439 
+Coord 1 44.730000 
+Coord 2 4.580000 
+
+----------------------------
+Nom 
+Grand-Couronne 
+Nb habitants 9432 
+Coord 1 49.349998 
+Coord 2 1.000000 
+
+----------------------------
+Nom 
+Pelissanne 
+Nb habitants 9422 
+Coord 1 43.630001 
+Coord 2 5.150000 
+
+----------------------------
+Nom 
+Saint-Jean-le-Blanc 
+Nb habitants 9394 
+Coord 1 47.900002 
+Coord 2 1.920000 
+
+----------------------------
+Nom 
+Luxeuil-les-Bains 
+Nb habitants 9393 
+Coord 1 47.820000 
+Coord 2 6.370000 
+
+----------------------------
+Nom 
+Leognan 
+Nb habitants 9392 
+Coord 1 44.730000 
+Coord 2 -0.600000 
+
+----------------------------
+Nom 
+Saint-Ave 
+Nb habitants 9386 
+Coord 1 47.680000 
+Coord 2 -2.750000 
+
+----------------------------
+Nom 
+Fontaine-les-Dijon 
+Nb habitants 9370 
+Coord 1 47.349998 
+Coord 2 5.020000 
+
+----------------------------
+Nom 
+Bougival 
+Nb habitants 9359 
+Coord 1 48.869999 
+Coord 2 2.130000 
+
+----------------------------
+Nom 
+Marguerittes 
+Nb habitants 9358 
+Coord 1 43.849998 
+Coord 2 4.450000 
+
+----------------------------
+Nom 
+Fleury-Merogis 
+Nb habitants 9331 
+Coord 1 48.639999 
+Coord 2 2.370000 
+
+----------------------------
+Nom 
+Neuville-en-Ferrain 
+Nb habitants 9331 
+Coord 1 50.750000 
+Coord 2 3.150000 
+

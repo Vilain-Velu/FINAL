@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm ./objet/*
+rm ./projet
+rm ./map-output.html
+rm ./map-output2.html
+rm ./map-output3.html
